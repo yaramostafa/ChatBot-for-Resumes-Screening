@@ -129,19 +129,19 @@ class RAG:
         return response["answer"]
 
 
-# rag = RAG()
+rag = RAG()
 
-# # Create an interactive loop
-# while True:
-#     # Get user input
-#     user_query = input("\nEnter your query (or 'quit' to exit): ")
+# Create an interactive loop
+while True:
+    # Get user input
+    user_query = input("\nEnter your query (or 'quit' to exit): ")
     
-#     # Check if user wants to quit
-#     if user_query.lower() in ['quit', 'exit', 'q']:
-#         print("Goodbye!")
-#         break
+    # Check if user wants to quit
+    if user_query.lower() in ['quit', 'exit', 'q']:
+        print("Goodbye!")
+        break
     
-#     # Get and print the response
-#     response = rag.get_response(user_query)
-#     print("\nResponse:")
-#     print(response)
+    # Get and print the response
+    response = rag.get_response(user_query)
+    print("\nResponse:")
+    print(response)
