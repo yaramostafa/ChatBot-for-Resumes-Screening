@@ -1,0 +1,1317 @@
+[
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_0",
+    "content": "Ali Mohamed Behery\n6th October, Egypt linkedin.com/in/ali-behery55/\n+201065402810 github.com/alibehery\nalibehery55@gmail.com kaggle.com/alibehery\nobjective\nHighly self-motivated machine learning engineer who has analytical and problem solving skills, seeking to\nobtain more knowledge and experience in ML Ops and development cycle of machine learning models. I\nwant to gain more experience in dealing with Machine learning projects.\nExperience\nData Scientist II at Eva Pharma Mar 2023- Present\nEVAGPT: a (RAG) chatbot for doctors and medical representatives to ask about Eva Pharma’\nproducts and medications. This project is a RAG application, technologies used (openAI api,"
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_1",
+    "content": "pinecone vector database, chromadb, langchain, Flask, docker, azure, git)\nsales forecasting for Eva Pharma products: forecasting in market sales each quarter for eva\npharma products in Egypt and other international markets to optimize production, logistics and\noperations. (Prophet, pandas, numpy, cloud run jobs, GCP, PowerBI)\nData warehouse on GCP: Gathering data from Microsoft Azure SQL server and Oracle databases\nand store them on GCP Bigquery. (SQL, GCP BigQuery, Cloud run, GCP)\nPowerBI dashboards for business: multiple dashboards for sales, operations,forecasting of sales.\n(SQL, Dax, python, BigQuery)\nMachine Learning Engineer at FlairsTech July 2022- Mar 2023"
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_2",
+    "content": "RASA chatbot: built and maintained a chatbot to help customer service agents to search for\nanswers about which procedures to follow and how to solve clients issues. (RASA, Bert, Elastic\nsearch, mongoDB)\nQuality Assurance for Customer service: a website to upload records of calls between customers\nand agents, converts speech to text then does sentiment analysis and summarizes the text. (Bert,\nwav2vec, Docker, Django, nginx, Haystack, Pydub)\nHelped in building a website to analyze the software team performance depending on data\ngathered from Jira, SonarQube and other project management platforms.\nSoftware Developer at AIB March 2022-July 2022"
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_3",
+    "content": "helped in InstaPay integration to the bank: an automation project to get data from ftp\nserver of IPN then do validation on those data and build reports using it. ( python, pandas\nnumpy, powerBI, reports in Excel sheet)\nusing programming languages (Python, Java, JavaScript) to maintain different apps and\nwebsites.\nEducation\nData Science MSc at Cairo University\nOct 2022- Present\nPre Masters - Oct 2022 - Feb 2024\nCore Courses: Advanced Machine Learning, Deep Learning, Bayesian Inference, advanced\nTopics in statistics, and Advanced Database\nGPA: 3.7\nInformation Technology Institute (ITI) AI-Pro Track Apr 2021- Jan 2022\n9-Months Professional Diploma – AI & ML Engineering Track"
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_4",
+    "content": "Graduation Project: Deep water Trash detection and tracking: using different algorithms for\nobject detection an tracking.\nimage processing openCV, pytorch, Cuda, YOLO, Resnet\nSuez University, Faculty of Petroleum and Mining Engineering. Aug 2015- June 2020\nBachelor of Petroleum Engineering\nGrade: Very Good\nProjects\nDeep water Trash detection and tracking: using different algorithms for object detection an\ntracking.\nimage processing openCV, pytorch, Cuda, YOLO, Resnet\nChatbot using Rasa.\nBert, speech to text wav2vec, sentiment analysis Bert.\nWuzzaf Dataset analysis using Java and spark.\nVoice Calls Analysis using Pydub ,Bert and Wav2vec."
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_5",
+    "content": "Overall ranked 3rd in Kaggle competitions powered by ITI\nRanked 4th out of 63 teams participating in Arabic Handwritten Characters Recognition\nKaggle competition\nRanked 9th out of 138 teams participating in Seoul Bike Rental Prediction Kaggle\ncompetition\nRanked 8th out of 81 teams participating in Dry Beans Classification Kaggle competition\nCourses\nData Scientist with Python Track DataCamp.\nStatistics Fundamentals with Python Track DataCamp.\nRed Hat System Administration Red Hat Academy\nNeural Networks and Deep Learning Coursera\nConvolutional Neural Networks Coursera\nLangChain for LLM Application Development\nLangChain: Chat with Your Data\nChatGPT Prompt Engineering for Developers"
+  },
+  {
+    "original_file": "AliMohamedBehery",
+    "chunk_id": "AliMohamedBehery_chunk_6",
+    "content": "Technical skills\nSQL / NOSQL\nCI/CD, GIT.\nDjango, Flask, Restful API.\nProgramming Languages (Python, Java )\nLinux system administration.\nData Visualization & Explanatory (matplotlib, plotly, Dash, seaborn )\nMachine Learning supervised & unsupervised with Pandas , Numpy and SciKit Learn\nKnowledge in Deep Learning Techniques with Tensor-flow & Keras & Pytorch\nKnowledge of image processing & filtering techniques (open-cv)\nChatbot RASA, Speech to text.\nDocker, Azure, GCP\nLanguages\nArabic : Native\nEnglish : Excellent"
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_0",
+    "content": "Amr ElSayyad\n+201064604548•amrelsayyad96@outlook.com•\nAl-Khamael City, 6th Of October City, Giza, 12588, Egypt•Open to Remote•Open to Relocate•\nLinkedIn•GitHub•Portfolio\nSoftware Engineer\nA skilled software engineer with a diverse technical background, including proficiency in\nvarious languages and a strong foundation in backend development. He has experience in\nbuilding software solutions, interactive applications, and integrating third-party services.\nEXPERIENCE\nGiza Systems • 12/2024 — Present\nSoftware Engineer - Machine Learning\nOrange Innovation Egypt (OIE) • 03/2023 — 12/2024\nSoftware Engineer\nContributed to Open5GS, a C-language Open-Source implementation for 5G Core and EPC,"
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_1",
+    "content": "implementing cutting edge solutions such as VoWiFi and LBO.\nContributed to Magma, a C, C++, Python, and Go Open-Source mobile core network\nsolution, improving the usability of the software platform.\nContributed to SONiC, an Open-Source Network Operating System (NOS) based on Linux\nthat runs on switches from multiple vendors and ASICs, improving security features.\nContributed to a web UI for a Network Services Orchestrator (NSO) project using Vaadin, a\nFull-Stack Java Platform for Building Modern Web Apps.\nDesigned and implemented an inventory management system for the company.\nSchneider Electric Systems Egypt (SESE) • 03/2020 — 11/2021\nIndustrial Automation Engineer"
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_2",
+    "content": "Represented the cybersecurity department in Egypt and supervised the IEC-62443-2-4\ncertification for industrial automation security.\nDesigned the system architecture for a $5 million project.\nDesigned and implemented industrial automation solutions using Foxboro DCS and\nTriconex SIS for various clients and sectors.\nSupervised the assembly, testing, delivery, and maintenance of projects.\nEDUCATION\nDiploma in Artificial Intelligence\nInformation Technology Institute (ITI) • Egypt • 11/2021 — 08/2022\nApplied Data Engineering concepts to real-world data.\nUtilized Spark & PySpark for Big Data and Machine Learning."
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_3",
+    "content": "Applied Linear Algebra, Statistics, and Numerical Optimization concepts for DS and ML.\nDeveloped AI applications using C++, Java, and Python.\nB.Sc. in Mechatronics Engineering\nOctober 6 University (O6U) • Egypt • (GPA: 3.59) • 09/2014 — 08/2019\nGraduation Project: Thermosyphon Water Purification System.\nKey Courses: Mathematics, Physics, Introduction to Computers, Production Technology,\nMechanics, Thermodynamics, Stress Analysis, Electro-Magnetic Field, Logic Design,\nEngineering Analysis Methods, Electronics Circuit, Computer Aided Design, Power\nElectronics, Micro-Controller, Mechatronics Systems Design, Robotics, Principles of Scientific"
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_4",
+    "content": "Thinking, Modeling and Simulation of Mechanical Systems, Artificial Intelligence.\nSKILLS\nAngular, Apache Spark, Artificial Intelligence, Bash, C, C++, CSS, Data Analysis, Data Science,\nData Visualization, Docker, Git, Hadoop, HTML + HTML5, Java, JavaScript, JWT, Linux, Machine\nLearning, MATLAB, Maven, MS SQL Server, MySQL, NoSQL, OOP, Plotly, PostgreSQL, PowerShell,\nPython, Redis, Spring Boot, Spring Data JPA, Spring Framework, Spring Security, SQL, SQLite,\nTailwind CSS, T-SQL, TypeScript, Web Scraping\nPROJECTS\nBanking Portal API • Link\nDeveloped and maintained a Spring Boot app using Spring Data, Spring Security, and JWT."
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_5",
+    "content": "Utilized JUnit and Spring's MockMvc framework to simulate HTTP requests and validate API\nresponses, enhancing test coverage and reliability.\nLeveraged Lombok for cleaner and more maintainable code, reducing boilerplate code.\nBanking Portal UI • Link\nDeveloped and maintained a Front-End app using Angular, enhancing UI responsiveness.\nImplemented secure user authentication and authorization mechanisms, including JWT\ntoken management and email triggers for account activities.\nIntegrated third-party libraries such as chart.js and ng2-charts for dynamic data\nvisualization and ngx-countries-dropdown for improved country selection."
+  },
+  {
+    "original_file": "AmrElsayyad",
+    "chunk_id": "AmrElsayyad_chunk_6",
+    "content": "Utilized Tailwind CSS for efficient and responsive UI design, ensuring cross-browser\ncompatibility and mobile responsiveness.\nAudio Stream • Link\nDeveloped a real-time audio streaming application in C++.\nImplemented functionality for recording, transmitting, receiving, and playing audio.\nDemonstrated proficiency in low-level audio programming and network communication."
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_0",
+    "content": "Enas Fathy Hagras\nenashagras100@gmail.com\n+201204441197\nAlexandria, Egypt BI Developer\nObjective                                                                                                                                     \t\nSeeking an opportunity to work as a BI Developer in a productive environment to enhance and develop my skills and capabilities. My ambitions are to solve real world problems and to use my knowledge and skills to develop professional and industrial business solutions in challenging and exciting fields.\nAcademic Background"
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_1",
+    "content": "Work Experiences                                                                                                                     \t\nGiza Systems\nSenior BI Developer & Data Engineer - May 2023 / Present\n🡺 Tools : Apache Nifi, Python, Nipy API, Power BI, Kibana.\n       Job Duties :\nCollaborate with cross functional teams to gather business requirements for new BI projects.\nContributed to BI development and data engineering activities to support data driven decision making solutions.               \nLink Development\nSenior BI Developer - December 2022 / May 2023\n🡺 Tools : Microsoft SQL Server, SSIS, SSAS, Power BI, Dax.\n            Job Duties :"
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_2",
+    "content": "Assisted in the design and development of data pipelines and ETL processes.\nEngaged in designing interactive dashboards.\nActed as a liaison between business stakeholders and the technical BI team to translate business needs into technical requirements.\n        Projects :\nEgypt Ministry of Communications and Information Technology - Hayah Karema Reports.\nUnited Arab Emirates Ministry Of Economy - Data Migration  .\n   IKEA KSA & Bahrain\nSenior Data Integration & BI Developer - March 2022 / December 2022.\n🡺 Tools : ADF (Azure Data Factory), Azure Data Lake, SQL Synapse, SSAS, Power BI, Dax.\n         Job Duties :"
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_3",
+    "content": "Monitored and managed data integration jobs to ensure data availability and reliability.\nDesigned and optimized data warehouse structures.\nParticipated in cross functional meetings to align BI projects with business goals and strategies.\nMentored junior BI developers and provided technical support (Team of a junior).\n       Projects :\nCRM Follow Up Report.\nFirst Call Resolution Report.\nCRM Data Warehouse Model.\nAndalusia Group For Medical Services \nBI Developer - July 2019 / March 2022.\n🡺 Tools : Microsoft SQL Server, SSIS, SSAS, SSRS, Power Pivot/Power BI, Dax.\n         Job Duties :\nEngaged in data warehousing, data analysis, and data modeling."
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_4",
+    "content": "Continuously improve analysis, data visualization and reporting to meet the specific needs of the medical sector.\nMentored junior BI developers and provided technical support (Team of 2 juniors).\n       Projects :\nPatient Definition Project.\nCRM Call Center & Marketing Achievement Project and Data Warehouse.\nCRM Cases Project.\nAVAYA System Project and Data Warehouse.\nFinancial Reports.\n   BI-Technologies\nService Desk Analyst - November 2016 / August 2017.\n🡺 Tools : Microsoft SQL Server.\n         Job Duties :\nCollaborated with IT teams to troubleshoot data related issues and provide technical support.\nIdentified opportunities to automate routine service desk tasks using SQL."
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_5",
+    "content": "Projects :\nSales Buzz Project.\nCourses                                                                                                                                         \t\nTechnical Skills                                                                                                                              \t\n  Languages                                                                                                                                       \t\nArabic : Native.\nEnglish : Proficient.\nPersonal Information"
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_6",
+    "content": "2018 – 2019 | 9-Month Diploma, Information Technology Institute (ITI) , Ministry of Communications and Information Technology (MCIT),\nTrack: System Development (Professional Web Development and BI), Alexandria Branch, Intake 39.\nGraduation Project: Lab Information System for Microbiology Department in Medical Research Institute - Alexandria University, Under the supervision of Enozom Software Company.\n2012 – 2016 | BSc: Computer Science/Statistics, Faculty of Science, Alexandria University.\nCumulative Grade: Very Good.\nGPA: 3.05/4.\nGraduation Project: Arabic Handwriting Recognition.\nGraduation Project Grade: Excellent.\n2024 | Microsoft Certified: Power BI Data Analyst Associate"
+  },
+  {
+    "original_file": "EnasHagras",
+    "chunk_id": "EnasHagras_chunk_7",
+    "content": "2023 | Microsoft Certified: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB.\n2017 – 2018 | Data Structures and Algorithms Specialization, US San Diego University, Coursera.\n- Microsoft SQL Server. | - Microsoft BI Services (SSIS , SSAS , SSRS). | - Power Pivot/Power BI.\n- Dax. | - ADF (Azure Data Factory). | - SQL Synapse.\n-  Azure Data Lake. | - Data analysis and modeling. | - Data warehousing.\n- Python. | - Apache Nifi. | - Kibana.\nBirth Date : | 3/4/1994.\nNationality : | Egyptian.\nLinked in\t: | https://www.linkedin.com/in/enashagras/"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_0",
+    "content": "AHMED HASSAN\nBig Data Engineer\nAddress: Nasr city – Cairo | Mobile: 01016445683\nEmail | LinkedIn | GitHub\nSUMMARY\nI am a highly accurate and experienced Data Engineer with a strong proficiency in collecting, analyzing, and\ninterpreting large datasets. I possess extensive analytical skills that enable me to effectively derive valuable insights\nfrom complex data. My expertise in data engineering tools and technologies allows me to develop efficient data\npipelines and optimize data workflows. I am committed to delivering high-quality results and collaborating effectively\nwith cross-functional teams to drive data-driven decision-making.\nEDUCATION\nB.Sc.: Zagazig university [2015-2020]"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_1",
+    "content": "Major: Computer Engineering\nGrade: Very Good\nGraduation project: Autonomous Car with Excellent Grade\nDescription: Build Autonomous System in Car Has Ability to Track Eyes for driver to warn him during driving.\nWORK EXPERIENCE\nFEB 2023 – current\nGiza Systems, Egypt — senior Data Engineer\nMinistry of Interior in KSA\n• Working on migrating and integrating Database from SQL server into graph database using graphQL API.\n• understand the data requirements of the organization and design appropriate data models. This includes creating\nlogical and physical data models, defining data structures, and ensuring data integrity, consistency, and performance.\nUsing This tool like ER/Studio tools."
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_2",
+    "content": "• Design data modeling to graph database to ingest data from SQL server database.\n• Working on Nifi tool to migrate database from SQL server to graph database (Arrangodb).\n• Integrate Multi data source from different systems on Kafka and ingest data into Arrangodb.\n• implement data quality checks and data governance processes to ensure that data is accurate, consistent, and compliant\nwith relevant regulations. This includes profiling data, identifying data quality issues, and implementing data cleansing\nor enrichment processes using Python scripts.\n• scheduling and monitoring data integration workflows, ensuring data is processed in a timely manner, and"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_3",
+    "content": "troubleshooting any issues that arise working with Apache Airflow tools.\n• Dockerize all services in containers to facilitate on devops team in production.\nAdvanced Analytics\n• Start by understanding the specific requirements of the big data infrastructure, including the volume and variety of\ndata, the desired data retrieval and reporting capabilities, and any performance or scalability considerations.\n• Set up Kudu and Impala on This infrastructure. Kudu is a columnar storage engine, while Impala provides SQL-like\nquerying capabilities. Configure them to work together seamlessly."
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_4",
+    "content": "• Write SQL scripts to create the necessary tables, columns, and indexes on Kudu. This will enable efficient querying\nand retrieval of data.\n• Develop endpoints using the Django framework and GraphQL to interact with Kudu. This will allow you to retrieve\nand manipulate data through a unified interface.\n• Create REST endpoints on top of Kudu to retrieve data from the data warehouse schema.\n• Define a data warehouse schema on Kudu that organizes the data for reporting purposes.\nMAY 2022 – FEB 2023\nEtisalat, Egypt — Data Engineer\nCloudera Platform\n• Translate complex technical and functional requirements into detailed designs to start Development phase."
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_5",
+    "content": "• Develop and implement data pipelines that extracts, transforms, and loads data from Staging area into\nDatawarehouse (Hive) Using spark tool on Cloudera Platform.\n• Developing ETL (Extract, Transform, Load) processes to transform and cleanse the ingested data using Apache\nSpark, Apache Hive and Apache Pig to perform data manipulation, aggregation, and enrichment tasks.\n• Working with distributed file systems (HDFS) to store and manage large volumes of data. This includes designing\nand implementing data partitioning, compression, and indexing strategies for efficient data storage and retrieval."
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_6",
+    "content": "• working with the Nifi tool to handle the ingestion, storage, processing, and analysis of large datasets. This involves\nsetting up data flows, configuring data processors, and ensuring efficient data movement and processing within the\nNifi environment.\n● developing visually appealing and intuitive dashboards using Tableau. These dashboards are designed to monitor the\nquality of data, providing meaningful insights and visualizations to stakeholders.\n● Organizing the work alongside the team using version control.\nAUG 2020 - JAN 2022\nCorelia, France — Data Engineer\n● Collected, analyzed, and interpreted raw data from various websites. Collaborated with the Operations and"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_7",
+    "content": "Technology Department on the development of new automated data management/analysis software which increased\nthe overall productivity and cut unnecessary costs.\n● Implemented Data pipeline to help data science teams build prediction model surge in customer orders to lower\naverage.\n● Conduct data mining, data modeling, statistical analysis and business intelligence Data analytics supports decisions\nfor high-priority, enterprise initiatives involving IT/product development, customer service improvement,\norganizational realignment, and process reengineering.\n● Built out the data and reporting infrastructure from the ground up using Data Studio and SQL to provide insights into"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_8",
+    "content": "the product and marketing funnels. Designed and implemented A/B experiments for products to improve the\nconversion rate.\n● Filtering and Wrangling millions of textual data to deliver neat and meaningful Reports.\n● Working on social media real data for many platforms (YouTube, Instagram, Change, Reddit, and Twi\nSKILLS\nBig Data:\n• Apache Spark • Cloudera\n• Apache Hadoop\n• Apache HBase\n• NIFI • Kafka\n• Apache Hive • Airflow\nBI Tools\n• Tableau ● Concepts and Analytical Tools\n• ● Business Statistics ● Data Mining methods.\nData Analysis Using Excel\nData Warehousing and ETL\n• Data Warehousing ● Snowflake Tool\nDatabases\n• Oracle SQL and PL/SQL • Mongo • Teradata"
+  },
+  {
+    "original_file": "AhmedHassan",
+    "chunk_id": "AhmedHassan_chunk_9",
+    "content": "• SQL (Access, Server, and My • Graph Database\nAdministration\n● Shell scripting\n• Red Hat System Admin I\nKubernetes\n•\nProgramming Languages\n● Python - Java SE - C- Scala - React, Nodejs (Express)\nCERTIFICATIONS\n● Feb 2019 – Apr 2020 “Data Architect Nanodegree from Udacity”\n● Oct 2020 – Dec 2020 “advanced data analytics nanodegree from egfwd”\n● Jan 2021 – May 2021 “AWS machine learning specialist from MCIT”\n● Aug 2021 – Dec 2021 “Data Engineer Nanodegree from Udacity”\n● Apr 2021 – Jul 2021 “Udacity Data Streaming Nanodegree”\nlanguage\n● Arabic: Mother tongue\n● English: Very Good"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_0",
+    "content": "Mostafa Khalil Karrar\nEmail: mostafa.kkarrar@gmail.com\nMobile: +201110203637\nObjective:\nI’m looking for a Senior, consultant or mid-level management opportunity which suits my 20+\nyears of experience in many of IT fields like Data Engineering, Data Science, Data Analytics,\nBusiness Intelligence, Big Data, Machine Learning and Network Operation, also I’m looking for a\njob which I can show my abilities and improve it for serve the place that I work for, which leads\nme to a better future in this place, as I prefer the stability as much as possible.\nEducation:\n• Bachelor in Mathematics and Computer Science\n-\nFaculty of Science - Cairo University\n-\nAccumulated grade: Good\n-\nGraduation year: 2001"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_1",
+    "content": "• Professional Diploma in Big Data and Data Science\n-\nNile University\n-\nGraduation year: 2022\nWork Experiences:\n➢ From April 2023 till Present:\n• Company: Giza Systems\n• Department: Software Development Center\n• Job Title: Senior Data Engineer - Acting Data Projects Technical Lead\n• Job Description:\n-\nHands-on and leading teams working on Data Integration and analytics tasks of multiple\nGiza Systems projects.\n-\nThe job nature is a project based and here below are the projects I worked in till present\nas a developer and technical lead:\n▪ Project Name: ACUD ITS\n• Description: Data Integration for radar cameras, sensors, and traffic"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_2",
+    "content": "sign devices from multi vendors installed in Egypt New Capital\nstreets and consolidate it into IDP (Industrial Digitalization Platform\n– Giza System Product) and YUNEX (Traffic Management System\nby SIEMENS) for reporting, analysis, and actions.\nPage 1 of 7\n• Technologies used: Apache-Nifi, Elasticsearch, Kibana, Kafka,\nRedis, Python, Groovy, Docker, and Azure DevOps.\n▪ Project Name: IDP (Industrial Digitalization Platform)\n• Description: IDP is a Giza System Product built to manage Smart\nCities through IoT devices and it has three deferent layers which is\nBasic, Analytics and Advanced Analytics (ML) and my role is to\nbuild a ETL pipelines to transform and move data between the three"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_3",
+    "content": "different layers.\n• Technologies used: Apache-Nifi, PostgreSQL, Kafka, GraphQL,\nRedis, Python, Groovy, Docker, and Azure DevOps.\n▪ Project Name: Modon Consolidated View\n• Description: Consolidate and automate calculation of KPI’s from 3\ndifferent industrial zones in Saudi Arabia (Eastern, Western and\nCentral) to be viewed in a Consolidated Dashboard.\n• Technologies used: Apache Airflow, Elasticsearch, PostgreSQL,\nPython, Docker, and Azure DevOps.\n➢ From September 2020 till April 2023:\n• Company: Etisalat Misr\n• Division: Technical\n• Department: Digital Transformation\n• Job Title: Acting Digitalization and Data Analytics Expert\n• Job Description:\n-"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_4",
+    "content": "-\nDevelop in-house tools, scripts, systems, and workflows to achieve the zero touch\noperations target with minimal cost.\n-\nDevelopment and maintenance for the mega system of Etisalat Network Topology Auto\nDiscovery.\n-\nIntegration of vendors’ different systems to generate one unified structure for low level\nand high level of Etisalat Network Topology.\n-\nPerforming Data Analysis to assess data meaning and generate dashboards to give\nbusiness insights for decision makers.\n-\nIntegration with Big Data Sources and applying machine learning methods.\n-\nDesign and Develop Etisalat and Vendor Trouble Tickets Dashboards to ensure proper\nhandling for network problems.\n-"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_5",
+    "content": "-\nAutomating reports to support ISP operations and planning teams in network expansion\nand OPEX reduction plans\n-\nCustomized reporting on performance KPIs to top management via network and service\ndashboards for consumer and enterprise services\n-\nImplementing corrective actions to resolve bugs and inaccuracies in the digital systems.\nPage 2 of 7\n-\nOperating and Administration for digitalization systems to make sure that they are\nresilient.\n-\nMaintaining Data Accuracy check-up procedure to make sure all generated reports are\nreliable.\n➢ From January 2016 till August 2020:\n• Company: Etisalat Misr\n• Division: Technical\n• Department: Enterprise Customers Operations"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_6",
+    "content": "• Job Title: Change Operation & Management Senior Supervisor\n• Job Description:\n-\nChange Operation:\n▪ Performing changes on enterprise customers services due to network\ntopology changes and new applied policies\n▪ Offloading legacy network devices from enterprise customers services\n▪ Involved in relocation of existing network devices projects.\n▪ Involved in any special project or task force that targets to make sure our\nnetwork meets the agreed network standard policy or enhance it.\n-\nChange Management: Control Changes to ensure that it meets all standard and special\nSLAs due to VIP customer requests.\n-\nNetwork Configuration Auditing: Develop scripts to frequently scan network"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_7",
+    "content": "configuration and ensure that it meets network standard policy and report any mistakes to\ntake the corrective actions.\n-\nAutomation & Integration: Design databases and develop applications, tools and\nscripts required for automating daily operations and frequently needed reports and KPI’s\nto enhance performance and accomplish tasks quickly.\n-\nPerformance Management: Reporting and monitoring enterprise customers’ operational\nperformance KPI’s.\n-\nRevenue Assurance: Ensuring that network configuration for enterprise customer’s\nservices match the CRM system and report the mismatching to the revenue assurance\nPM.\n➢ From October 2012 till Dec 2015:\n• Company: Etisalat Misr\n• Division: Technical"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_8",
+    "content": "• Department: Enterprise Customers Operations\n• Job Title: Change Operation & Management Supervisor\nPage 3 of 7\n• Job Description: Same as previous job\n➢ From September 2009 till September 2012:\n• Company: Etisalat Misr\n• Division: Technical\n• Department: Enterprise Customers Operations\n• Job Title: Senior Incident Management Engineer\n• Job Description:\n-\nIncident Management\n-\nProblem Management\n-\nReporting and Monitoring Operational Performance\n-\nDesign databases and develop applications and tools required for automating daily\noperations and frequently needed reports and KPI’s.\n-\nLeading Incident Management Team.\n➢ From July 2009 till August 2009:\n• Company: Etisalat Misr"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_9",
+    "content": "• Division: Technical\n• Department: Quality Assurance\n• Job Title: Quality Assurance Engineer\n• Job Description:\n-\nDefine KPI’s for each team in customer operation department.\n-\nEvaluate performance of customer operation teams due to KPI's and target achieves.\n-\nInvestigate delayed pending tasks and develop appropriate proposals to prevent such\ndelays in the future.\n➢ From May 2004 till June 2009:\n• Company: Internet Egypt one of the most successful ISPs in\nEgypt which was offering Internet services since 1996 till 2009\nwhere it had been acquisitioned by Etisalat Misr.\n• Department: ADSL Support and Installation\n• Last Job Title: Technical Support & Installation Lead\nPage 4 of 7"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_10",
+    "content": "Page 4 of 7\n➢ From August 2001 till April 2004:\n• Organization: Agriculture Research Center (ARC)\n• Department: Filed Crops National Institute - Genetic Resource Department\n• Job Title: IT Specialist\nHands-on Technical Experience:\n• Big Data Systems (Hadoop, Spark, Flink, HIVE, Kafka)\n• IBM Cloud (Db2, Cloudant, Watson, and Cognos Analytics)\n• AWS Cloud (S3, RDS, DynamoDB)\n• Azure Cloud (DevOps, DataBricks)\n• Elasticsearch, Kibana\n• Apache Nifi\n• Apache Airflow\n• Python:\n-\nSK-learn, numpy, pandas, Spark-ML, Pytorch\n-\nNetwork Scripting (telnetlib, paramiko, netmiko, pysnmp)\n-\nRESTFUL API (requests)\n-\nTasks Automation (bs4, Selenium, pyAutoGUI)\n-\nWeb Development (CGI, Flask, Django)\n-"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_11",
+    "content": "-\nData Processing (SQL, Excel, csv, txt, xml, yaml, json, …)\n• Java\n• Groovy\n• Oracle Databases\n• MySQL Databases\n• PostgreSQL\n• Microsoft SQL Server Administration and Development\n• Microsoft SQL Server Business Intelligence (Reporting Services and Power BI)\n• NoSQL Databases (MongoDB, IBM Cloudant, Apache Casandra, GraphQL)\n• Power Pivot and Data Analysis using Microsoft Excel\n• Good Knowledge in HTML, CSS, and JavaScript\n• Microsoft Office Applications with VBA Programming (Expert Level)\nPage 5 of 7\n• Microsoft Windows Server Administration\n• Linux Server Administration and shell scripting\n• Networking Experience of CCNP and CCIP Level\nAwards:"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_12",
+    "content": "Awards:\n• Excellence Project Award: Awarded from Etisalat Misr from CHRO for the\nexceptional performance in the project of “From Lean to Excellence” which made\na significant improvement in ADSL Installation and Maintenance work force.\n• Certificate of Appreciation: Awarded from Etisalat Misr from Operation\nDirector and CTO for building “Enterprise Integrated System” which made a\nsignificant improvement in automating change operation and management tasks\nthat reflects directly on customers’ experience.\n• Hero of Heroes: Awarded from Etisalat Misr from CHRO for building highly\nefficient reporting web portal for the “Enterprise Integrated System” which made"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_13",
+    "content": "a significant improvement in measuring all operation tasks performance and\nKPI’s.\nTraining Courses:\nTechnical Training:\n• Introduction to Big Data Hadoop & Spark (2020)\n• Machine Learning (2020)\n• Advanced Big Data Analytics (2020)\n• Deep Learning (2021)\n• Lean Six Sigma Green Belt (2018)\n• Microsoft SQL Server 2014 Data Models and Business Intelligence (2017)\n• Microsoft SQL Server 2014 Administration (2016)\n• ORACLE Database 8i and ORACLE Developer 6i (2003)\nSoft Skills Training:\n• Leadership\n• Integrated Communication and Presentation Skills\n• Problem Solving and Decision Making\nPage 6 of 7\nCertificates:\n• IBM Data Engineering Professional Certified"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_14",
+    "content": "• IBM Data Wearhouse Engineer Professional Certified\n• CISCO Certified Network Associate (CCNA)\n• Microsoft Certified Professional (MCP)\n• Oracle Certified Professional (OCP)\n• Lean Six Sigma Green Belt Certified\nSoft Skills:\n• Excellent command of spoken and written English\n• Logical thinking and attention to details\n• Customer oriented\n• Work under pressure\n• Excellent teamwork skills\n• Excellent team management skills\n• Excellent time management skills\n• Excellent communication and presentation skills\n• Excellent interpersonal relationships\nPersonal Information:\n• Address: Building 50T, Hadayed El-Ahram, Fayoum Desert Road, Giza, Egypt\n• Home Tel.: +202-33909566"
+  },
+  {
+    "original_file": "MostafaKhalilKarrar",
+    "chunk_id": "MostafaKhalilKarrar_chunk_15",
+    "content": "• Date of Birth: 16-Feb-1979\n• Nationality: Egyptian\n• Military Service: Exempted\n• Marital Status: Married and have two children.\nPage 7 of 7"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_0",
+    "content": "Mariam Towfik\nmariam.ahmed.xx24@gmail.com 01114297587 Github linkedIn portfolio\nEducation\nFaculty of Computer and Information Science 2020 – 2024\nAin-Shams University Cairo, Egypt\nGPA : 3.3\nGraduation Project : A+\nProfessional Experience\nData Science Intern 09/2024 – 02/2025\nGiza Systems\nWorked on software task to refactor code\n•\nWorked on multiple machine learning tasks (supervised,unsupervised,nlp,..) with the end-\n•\npoints using django\nWorked on time series task\n•\nlearned to use multiple technologies like ELK, Airflow, Nifi,..\n•\ndata tasks: Converting from mysql (relational db) to cypher (graph db), graphql\n•\nMachine Learning Intern 03/2024 – 06/2024\n\u0000\u0000\u0000\u0000\u0000\u0000ور\u0000\u0000\u0000ا\u0000\u0000\u0000\u0000"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_1",
+    "content": "\u0000\u0000\u0000\u0000\u0000\u0000ور\u0000\u0000\u0000ا\u0000\u0000\u0000\u0000\nWorked on AI project live face recognition where you can add more faces to recognize and\ndeployed it on flask.\nFull-Stack Developer Intern 09/2023 – 11/2023\nPentavalue\nLearned to use TypeScript and React built 2 cruds applications front-end and backe-end one\nusing sql as database and the other using Firebase\nSkills\nC++, Java, SQL, Python Tools Flask\nGit & Github\nMachine Learning Data Manipulation with python\nNumpy,Pandas,scikit-learn, Data Visualization with python\nDifferent Algorithms Matplotlib, plotly Computer Vision\nRestful APIS Deep Learning Tableau\nLinux Excel\nPower BI\nProjects\nEagle eye (Search with a photo through multiple videos) (Grade : A+) 10/2023 – 07/2024"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_2",
+    "content": "Graduation Project\nValeo Mentorship Program\nUsed to enhance securty and make it more efficient. By search for suspects's of crimes in cctvs\nusing the suspect image(s) to search for them in one or multiple videos and it will show the\ntimestamp where the suspect appeared used.\nALGOS : Retina Face for face detection, Arc face for Face Recognition\nand if we don't have a suspect we can make search for all the people that appeared wherer it\nreturns the frame with the time stamp they appeared using\nALGO: MTCNN for face detection\nused : Python, Pyside6\nWiki Web Scraping 2024\nWeb Scraped Wiki's largest companies in the United States by revenue And saved it in Excel\nSheet.\nusing: python"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_3",
+    "content": "using: python\nObject Detection 06/2024\nDetect all objects in an image using yolo and list all labels that was detected deployed using\nstreamlit\nCat Dog Image Classifier 12/2023\nThe Project uses Python and deep learning to classify input image to a cat or dog.\nThe Project implements VGG16 algorithm & built model from scratch.\nBreast cancer patient status prediction 2023\nUsed python to preprocess , visualize , clean the data & build the machine learning algorithms\nmodels to predict whether the patient would Die or live.\nDeployed the model with the best result using flask to predict new input from users.\nText Analysis (Email Spam Detection) 2023"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_4",
+    "content": "The project uses python, It implements text analysis techniques (NLP) to conclude if an email is\na spam or ham\nMemory Managment (Operating Systems) 2022\nWas the top 10 project\nThe project is written using C\nWe Implemented Memory Allocation, deallocation ,sharing and virtual and physical memory\nand Semaphores concepts;\nImplementd Algorithms to find the best place in memory as : First Fit,Best Fit,Next Fit.\nLoan prediction project 2022\nThe project is written in Python and it uses machine learning to check if the person is eligible to\nreceive the loan they asked for or not,\nThe model was trained with different algorithms and Ensemble models and different libraries\nwere used.\nCourses"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_5",
+    "content": "were used.\nCourses\nData Analytics bootcamp 07/2024 – 08/2024\nAlex The analyst\nData Analysis Course where worked on sql projects like data cleaning and exploration, excel like\ndata cleaning and dashboard, power BI, Tableu, and python projects like web scraping for data\nanalysis\nALX Software Engineering Programme(one month) 07/2023\nLearned to use Linux commands, and took fundamentals of C language.\nBackEnd Course 03/2023 – 04/2023\n180 Daraga\nLearned to make APIs with nodejs using Express & used sql & sequelize for interacting with\ndatabase using Xampp\nData Analysis Challenger Track 2022\nUdacity\nLearned how to work with excel sheet.\nActivity\nASU Carrer Center Volunteer 02/2024"
+  },
+  {
+    "original_file": "MariamTowfik",
+    "chunk_id": "MariamTowfik_chunk_6",
+    "content": "Employer Relation Team\nSupport Member (Student Activity)\nMachine Learning Committee\nLanguages\nEnglish Arabic(Native Language)\nSoft Skills\nLeadership\nCommunication\nTeamwork\nStress management"
+  },
+  {
+    "original_file": "YaraMostafa",
+    "chunk_id": "YaraMostafa_chunk_0",
+    "content": "Yara Mostafa Marei\nCairo, Egypt | (+20)1207717867 | yaramostaffa500@gmail.com | https://www.linkedin.com/in/yaramarei /\n| https://github.com/yaramostafa\nEDUCATION\nFaculty of Engineering, Ain Shams University ICHEP September 2019 - June 2024\nBachelor of Computer Engineering GPA: 3.15\nConcentration: Data Science\nEXPERIENCE\nData Science Headway Program September 2024 – Current\nGiza Systems (Cairo, Egypt)\n• Working on advanced topics, including supervised and unsupervised machine learning, time-series\nmodeling, neural networks, MLOps (Docker, Airflow, NiFi).\n• Gaining expertise in web development using Django, database management (SQL and NoSQL), and"
+  },
+  {
+    "original_file": "YaraMostafa",
+    "chunk_id": "YaraMostafa_chunk_1",
+    "content": "software engineering principles, including OOP, SOLID, and design patterns\nGraduation Project Sponsorship November 2023 – June 2024\neJad (Cairo, Egypt) Grade: A+\n• Developing a Driver Monitoring System for real-time driver distraction detection, employing 3 deep\nlearning modules for eye gaze and head pose analysis, integrated with real-time face detection.\nBig Data Analyst Trainee August 2022 – October 2022\nTelecom Egypt WE (Cairo, Egypt)\n• Utilized Microsoft Power BI for data analysis and visualization.\n• Conducted analysis and crafted visual representations of various Kaggle datasets.\nPROJECTS\nLeaf Classification [GitHub Link]"
+  },
+  {
+    "original_file": "YaraMostafa",
+    "chunk_id": "YaraMostafa_chunk_2",
+    "content": "• Developed a CNN model for leaf classification, encompassing data cleaning, visualization, model\nimplementation, and hyperparameters tuning achieving optimal performance.\nAnalyzing Breast Cancer Datasets [GitHub Link]\n• Applied preprocessing, outlier detection, and correlation analysis techniques to enhance accuracy.\n• Implemented 5 Machine Learning Models for classification tasks.\n• Utilized varied visualization graphs to gain insights and communicate the results effectively.\nMars Rover Search and Sample Return [GitHub Link]\n• Developed computer vision algorithms for autonomous mapping and navigation of a Mars Rover\nsimulation."
+  },
+  {
+    "original_file": "YaraMostafa",
+    "chunk_id": "YaraMostafa_chunk_3",
+    "content": "simulation.\n• Utilized image processing techniques to improve mapping fidelity, obstacle avoidance, and rock\ncollection efficiency\nCarpool Application [GitHub Link]\n• Developed CarPool app utilizing Native Android development with Firebase authentication and real-\ntime database integration.\n• Implemented features including login/signup, route listings, cart management, order history, and\npayment tracking, ensuring a seamless user experience and efficient ride-sharing service.\nCERTIFICATES\nMachine Learning Specialization - DeepLearning.AI\nNeural Networks and Deep Learning - DeepLearning.AI\nData Analysis and Visualization with Power BI - Microsoft"
+  },
+  {
+    "original_file": "YaraMostafa",
+    "chunk_id": "YaraMostafa_chunk_4",
+    "content": "Convolutional Neural Networks – DeepLearning.AI\nSKILLS\nLanguages: Python, SQL, C/C++, Java, Dart, HTML, CSS, JavaScript, XML, Json\nTools: Jupyter Notebook, TensorFlow, PyTorch, OpenCV, NumPy, Matplotlib, Scikit-learn, Pandas,\nHuggingFace, Microsoft Power BI, Excel, Docker, MySQL, NoSQL, NiFi, Airflow, Alteryx, Firebase DB, JIRA,\nGit/GitHub, PyQt5"
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_0",
+    "content": "AHMED ELDAMATY\n(cid:135)github.com/UncleSam165  s-ahmadsami@zewailcity.edu.eg\n104aFaisalST,Giza,Egypt(cid:211)+201112273026\nSearchingforopportunitiesinthefieldsofTelecommunicationsorDataScience.\nEDUCATION\nUniversityofScienceandTechnology,ZewailCity,Egypt Sep2017-July2022\nB.Sc. inCommunicationsandInformationEngineering GPA:3.40/4.0\nGraduationProject: JointCommunication-RadarSystemImplementation\nSelected Courses: Advanced Wireless Communication Systems - Digital and Wireless Communications - Mobile\nCommunicationsTechnologies-WirelessSensorNetworksandIoT-NeuralNetworksandDeepLearning-Machine\nLearning-InformationSecurityandEncryption-LinearandNonlinearProgramming."
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_1",
+    "content": "AlSaadeyaMilitarySecondarySchool,Giza,Egypt 2016-2017\nMathsection\nSTEMhighschoolforboys,6thofOctober,Giza,Egypt 2014-2016\nEXPERIENCE\nSoftwareDevelopmentCenter,GizaSystems Sep2022-present\nDataScientist\n-Workedwithdatateamonseveralprojectsusingbig-datatoolslikePySpark,HadoopandKafka. Alsoworkedwith\nRestAPIandDjango. IhavesomeexperienceusingAirflow. InvestigatedindifferentapplicationsofMLtoimplement\nnewfeaturesintherunningprojects. WorkedwithNoSQLArangoandNeo4jGraphDatabaseandGraphML.Good\nexperienceintimeseriesanalysis.\nCIEDepartment,ZewailCity Oct2022-Jan2023\nTeachingAssistant\n-WorkedasaTeachingAssistantforDigitalSignalProcessingCourseforsemesterFall-2023"
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_2",
+    "content": "CIEDepartment,ZewailCity Aug2021-Oct2021\nResearchIntern\n- Conducted a research about using DNN to optimize power allocation coefficients in MIMO systems working with\nNOMAcommunicationschemeaccordingtotheCSIfeedbackoftheusersinacell.\nTECHNICALSKILLS\nProgramming: Python,C,C++,C#\nMLFrameworks: Tensorflow,Keras,Scikit-learn,Auto-Sklearn\nSWFrameworks: Django,Airflow,Spark,Kafka,NiFi,Alteryx.\nSoftware&Tools: Matlab,LabView,Simulink,Colab,Pycharm,Wireshark,eNSP,PowerBI\nLanguages: Arabic(MotherTongue),English(Professional).\nCERTIFICATIONS\nHUAWEIHCIARouting&Switches,HUAWEI Sep2020\n-Introducesbasicconceptsandbasicnetworkknowledgeofroutingandswitching. Coveredthemainprotocolsused"
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_3",
+    "content": "inL2&L3computernetworksinadditiontomanagementandconfigurationprocessofHuaweiDevices.\nIELTSAcademic,BritishCouncilinCairo Nov2022\n-Reading: 9.0,Listening: 8.5,Speaking: 7.0,andWriting: 6.5. Bandscore8.0;VerygooduserofEnglish.\nMicrosoftCertified: PowerBIDataAnalystAssociate,Microsoft Nov2023\nPROJECTS\nCrimeIntelligence,PublicSecuritySector,SaudiMinistryofInterior.\n-IntegrationandMigrationofdatafromMOI’splatformstoanewplatform.\n-Builddifferentadvancedandpredictiveanalyticstopredictcrimeratesandcrimeactivityofcriminals.\n-BuildingPowerBIdashboardsfordisplayingresultsandanalyticsofdifferentMLusecases. Giveresourceallocation\ninspectsbaseonthoseanalytics.\nIntelligentTrafficSystem,GizaSystems."
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_4",
+    "content": "- Benchmarked different ML models of ARIMA, RFR, and GNNs. Deployed the best model and integrated with an\nAPI.\nInvestigationofNon-IntrusiveLoadManagementModels.\n-DonealiteraturereviewabouttheproblemofNILM.Selected4modelstobenchmarkandvalidate. Modelsincluded\nareRFC,1D-CNN,andBERT4NILM.\nImplementationofasimpleinterpreterusingpython.\n-ImplementedaninterpreterusingpythontoparseandevaluateuserdefinedlogicalandmathematicalKPIs.\nImplementationofIEEE802.11aWLANPhysicalLayerwithOFDMusingMATLAB\n- The IEEE 802.11a Wireless LAN standard which operates in the 5 GHz unlicensed band occupying a 20 MHz"
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_5",
+    "content": "bandwidth is based on OFDM. The main goal of the project is to implement the OFDM system specified in the\n802.11astandard.\nSoftwareDesignandImplementationofSelectedFunctionalitiesintheLTEEPC.\n-Implementedtheattachanddetachprocessdefinedby3GPPstandardsintheLTEEPCsystemusingpython.\nImplementationofdigitalmodulationanddemodulationusedin4GandDVB-Csystems.\n- Used different constellations and modulation techniques like QAM and PSK to send and recieve messages using\nMATLABandLabView. Also,usedUSRPtotestinreallifescenarios.\nAbstractiveTextSummarizationUsingDeepLearning\n-UsageofLSTMAutoencoderarchitecturetoperformabstractivetextsummarization.\nEXTRA-CURRICULAR"
+  },
+  {
+    "original_file": "AhmedEldamaty",
+    "chunk_id": "AhmedEldamaty_chunk_6",
+    "content": "EXTRA-CURRICULAR\nVolunteeratResalaCharity,Giza,Egypt May2018-Nov2018\nTreasureratZewailCityIEEE Sep2020-Jun2021\nInstrucutoratZewailCityAppXworkshop Oct2021\nPRmemberatZewailCityScienceFestival Feb2018-May2018\nREFERENCES\nSamyS.Soliman,Ph.D.,MIEEE\nAssociateProfessor,CommunicationsandInformationEngineeringDepartment\nZewailCityofScienceandTechnology.\ne-mail: ssoliman@zewailcity.edu.eg\nMahmoudAbdelaziz,Ph.D\nAssistantProfessor,CommunicationsandInformationEngineeringDepartment\nZewailCityofScienceandTechnology.\ne-mail: mhabdelaziz@zewailcity.edu.eg\nMohamedMaher,M.Sc.\nSeniorDataScientist,SoftwareDevelopmentCenter\nGizaSystems.\ne-mail: mohamed.maher@gizasystems.com/m.maher525@gmail.com"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_0",
+    "content": "Mahmoud   Youssef\nAssociated Data Scientist | mahmoudtaha613@gmail.com \nmahmoud-taha \n  MahmoudMTaha    \nmahmoudtaha3\nProfile | Profile"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_1",
+    "content": "A diligent Machine Learning Engineer with a robust background in Machine Learning and data science techniques, complemented by a demonstrated ability to work effectively in diverse, international settings. Having undertaken an internship in Italy, I bring a global perspective to problem-solving and a proven track record of adapting seamlessly to new environments. Additionally, I possess strong communication skills to facilitate effective collaboration across borders and cultures | A diligent Machine Learning Engineer with a robust background in Machine Learning and data science techniques, complemented by a demonstrated ability to work effectively in diverse, international settings"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_2",
+    "content": ". Having undertaken an internship in Italy, I bring a global perspective to problem-solving and a proven track record of adapting seamlessly to new environments. Additionally, I possess strong communication skills to facilitate effective collaboration across borders and cultures"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_3",
+    "content": "Apr 2021 – Jan 2022 |      Post-graduate Diploma\n                                                              AI Pro 9-month program, Information Technology Institute (ITI), Nasr city, Egypt\n                                                              EPITA School of Engineering and Computer Science, Paris, France\n Sept 2014 – May 2019 |   BSc. in Electrical Engineering\n    Computer and Systems Department, Zagazig University, Egypt\n    Accumulative Grade: Very Good with Honor | Apr 2021 – Jan 2022 |      Post-graduate Diploma\n                                                              AI Pro 9-month program, Information Technology Institute (ITI), Nasr city, Egypt"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_4",
+    "content": "EPITA School of Engineering and Computer Science, Paris, France\n Sept 2014 – May 2019 |   BSc. in Electrical Engineering\n    Computer and Systems Department, Zagazig University, Egypt\n    Accumulative Grade: Very Good with Honor\nWork Experience | Work Experience\nCertificates | Certificates\nJan 2022  | Machine Learning – Specialty, AWS\nNov 2021 | Data Scientist Professional, DataCamp | Jan 2022  | Machine Learning – Specialty, AWS\nNov 2021 | Data Scientist Professional, DataCamp\nTechnical Skills | Technical Skills\nPrograming languages: Python, Java, C"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_5",
+    "content": "Machine Learning: Scikit-Learn, NumPy, SciPy, AutoMl, AirFlow, MlFlow,Time-Series,Rasa Chatbots,Altrex\nDeep Learning: TensorFlow, Pytorch, OpenCV, Yolo, CNN, NLP, Recommender Systems\nData Visualization:  matplotlib, seaborn, Dash, plotly, Tableau\nSQL & NOSQL Databases: Postgres, MySQL, mongo DB, Cassandra\nBig Data: Spark\nDjango, Agile, Git, Linux, Angular, Spring, Flask | Programing languages: Python, Java, C\nMachine Learning: Scikit-Learn, NumPy, SciPy, AutoMl, AirFlow, MlFlow,Time-Series,Rasa Chatbots,Altrex\nDeep Learning: TensorFlow, Pytorch, OpenCV, Yolo, CNN, NLP, Recommender Systems\nData Visualization:  matplotlib, seaborn, Dash, plotly, Tableau"
+  },
+  {
+    "original_file": "MahmoudYoussef",
+    "chunk_id": "MahmoudYoussef_chunk_6",
+    "content": "SQL & NOSQL Databases: Postgres, MySQL, mongo DB, Cassandra\nBig Data: Spark\nDjango, Agile, Git, Linux, Angular, Spring, Flask\nProjects | Projects\nWeapon detection system using YOLOv4\nJob title Classification by industry Problem Using NLP\nWuzzuf Data Analysis           \nPremier League Statistics Dashboard\nBike Sharing Prediction | GitHub Repo\nGitHub Repo\nGitHub Repo\nGitHub Repo\nKaggle"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_0",
+    "content": "Name: Mohamed Maher Zenhom Abdelrahman\nAddress: New Maadi, Cairo, Egypt\nPhone: +20 106 9987 443\nEmail: m.maher525@gmail.com / mohamed.maher@gizasystems.com\nDOB: 03/05/1995\nEDUCATION 2018 – 2020\nMaster of Computer Science, Data Science\nSpecialization, University of Tartu (CGPA: 5.0/5.0 – Honors: cum\nlaude)\nThesis Topic: Instance-based label smoothing for better classifier\ncalibration, Supervisor: Meelis Kull\n2013 - 2018\nBachelor of Communications and Information\nEngineering, University of Science and Technology at Zewail City\n(CGPA: 3.86/4.0 – Honors: summa cum laude)\nWORK\nEXPERIENCE\n07/2021 - Current\nData Scientist, Giza Systems (Solutions By STC), Cairo,\nEgypt\nResponsibilities:"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_1",
+    "content": "Responsibilities:\n Data Team Lead at the software development center at Giza\nSystems.\n Building advanced analytics machine learning models for real-\ntime forecasting of time-series data in smart industrial cities.\n Writing technical write-ups for new business opportunities.\n Making design documents for big data projects.\n Benchmarking anomaly detection models for time series data.\n Data migration, integration using different big data tools.\n Designing the solution architecture for the advanced analytics\ncomponents in industrial digitalization platforms.\n Building data team capacity and capabilities through making\nhiring and learning plans."
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_2",
+    "content": " Building the data team career path and conducting technical\ninterviews for recruitment.\n Teaching and mentoring interns at the headway program for\nthe data team.\nInvolved Projects and Roles\n Data Team Lead in MODON, Smart Industrial Cities in\nKSA.\n Data Architect in the Intelligent Transportation System\nof the New Administrative Capital of Egypt (ACUD).\n Data Scientist in Predicting throughput of radio cells in\ncollaboration with Nokia and STC\n Data Architect in building intelligent threat management\nsystem with Ministry of Interiors in KSA (MOI).\n Data Track Coordinator & Instructor at Headway\nInternship program.\n Data Team Lead in Industrial Digitalization Platform"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_3",
+    "content": "(IDP), one of Giza Systems Software products.\n02/2018 – 08/2018\n11/2020 – 01/2023\nData Scientist, SilkBytes, DigiSay, Cairo, Egypt\nResponsibilities:\n Building Different Models for Automation of classification\nprocesses in Anti-Piracy System (RightsHero).\n Re-architecture of the anti-piracy system and deployment on\ncloud.\n06/2020 – 12/2020\nResearch Assistant, Machine Learning Lab, University of\nTartu, Estonia\nResponsibilities:\n Reducing overconfidence of deep neural networks predictions\nusing novel label smoothing methods, Supervisor: Meelis Kull\n09/2019 – 06/2020\nResearch Assistant, iCV Lab, University of Tartu, Estonia\nResponsibilities:"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_4",
+    "content": "Responsibilities:\n Benchmarking of Session based recommendation baseline and\nstate-of-the-art Deep Learning Sequential Approaches,\nSupervisor: Gholamreza Anbarjafari\n02/2019 – 01/2020\nTeaching Assistant, Institute of Computer Science,\nUniversity of Tartu, Estonia\n Machine Learning Course (Fall 2019)\n Big Data Management Systems Course (Spring 2019)\n09/2018 - 06/2019\nResearch Assistant, Data Systems Group, University of\nTartu, Tartu, Estonia\nResponsibilities:\n Working in development of new Machine Learning Automation\ntool in R language.\n Benchmarking and surveying of different AutoML tools.\nSupervisor: Sherif Sakr\n01/2017\nSoftware Developer Intern, Ejada Systems, Cairo, Egypt"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_5",
+    "content": "Responsibilities:\n Developing Java program for food ordering software and\ninterfacing with Oracle relational database.\n07/2016 – 09/2016\nMachine Learning Intern, University of Science and\nTechnology at Zewail City, Egypt\nResponsibilities:\n Benchmarking of different condensation techniques to scale\nfor using support vector machines with large datasets.\nCOMPETITIONS 2017\n& Contestant, ACM Egypt and Arab Collegiate\nVOLUNTEERING Programming Contest finals (ECPC - ACPC)\nEXPERIENCE Achievement: Qualified to Regional Contest ACPC\n2015\nContestant, NASA Space Apps Cairo Hackathon\nCompetition\nAchievement: 3rd place in NASA Space Apps Hackathon Ranking\n2015"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_6",
+    "content": "2015\nProject Manager, Zewail City Science Festival\nZewail City of Science and Technology\n2014 - 2015\nPresident, Microsoft Tech Club\nZewail City of Science and Technology\n2013 - 2014\nMember of Academic Committee, Students’ Union\nZewail City of Science and Technology\n2009-2010\nContestant, Egyptian Olympiad in informatics (EOI)\nAchievement: Bronze and Silver medals – Language Used: C++\nSELECTED\nPUBLICATIONS 2022\n\"AutoMLBench: A Comprehensive Experimental Evaluation of\nAutomated Machine Learning Frameworks\", (mdpi). [Repo]\n2022\n\"Comprehensive empirical evaluation of deep learning\napproaches for session-based recommendation in e-\ncommerce\", (mdpi). [Repo]\n2021"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_7",
+    "content": "2021\n\"Instance-based Label Smoothing For Better Calibrated\nClassification Networks\", the 20th International Conference on\nMachine Learning & Applications (ICMLA). [Repo]\n2020\n\"Automated Machine Learning: State-of-The-Art and Open\nChallenges.\", (arXiv). [Repo]\n2019\n\"SmartML: A Meta Learning-Based Framework for Automated\nSelection and Hyperparameter Tuning for Machine Learning\nAlgorithms\", the 22nd International Conference on Extending Database\nTechnology (EDBT). [Repo] [Seminar]\nSELECTED \"SmartML: Machine Learning Automation Tool in R\" This tool\nPROJECTS helps in automation of the process of classifier algorithm selection,\nand hyper-parameter tuning in supervised machine learning."
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_8",
+    "content": "\"Microscopic Image Denoising Using Deep Learning\", Using\nDifferent Deep Learning Architectures including GANs to help in\nmicroscopic image denoising. [Blog]\n\"Predict What the mouse sees?\", Using the neuron response of a\nmice exposed to different images categories, we try to analyze and\ntrain different machine learning models to interpret what and how\nthe mouse sees. [Blog]\n\"Modern Standard Arabic Speech Recognition System\", Using\nKaldi Toolkit to test different deep learning architectures for building\na model for Arabic Speech to Text recognition. [Blog]\nSKILLS Technical Skills:\n Programming Languages: Python (Excellent), R (Very\nGood), MATLAB, MySQL (Good), Java, C++ (Basic)."
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_9",
+    "content": " SW Engineering: Django Framework, Docker, GraphQL\n Linux Administration\n Deep Learning Frameworks: PyTorch, Keras Over\nTensorflow\n Machine Learning: Scikit-Learn, SparkML, Weka,\nMLFlow, H2O, AutoML\n Cloud Service providers: AWS (Very Good), GCP, Azure\n BI: Tableau\n Big Data Tools: Apache Spark, Apache NiFi, Apache\nKafka, Apache AirFlow, Apache Flink, NoSQL (Neo4J,\nHBase, Elastic Search, Cassandra, ArangoDB), Cloudera\nCDP\n Version Control: Github, GitLab, BitBucket, Azure Repos\n Issue Tracking: Jira, Trello, Azure DevOps\nLanguage Skills:\n English: Proficient.\n Arabic: Native Language.\nAWARDS\n2020\n1st Place in University of Tartu Student Project Contest:"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_10",
+    "content": "A grant of 1000 € is awarded as the best student project in the\nmaster’s degree level for developing the first R package in supervised\nAutoML.\n2018-2020\nEstonian Foreign Ministry Scholarship:\nAward is given to the top applicants to degree seeking students at\nUniversity of Tartu to cover the university fees in addition to a\nstipend. This award was given in the period from 2018 to 2020 for a\ntotal of 20 months.\n2019-2020\nUniversity of Tartu Achievement Stipend:\nAward is given to the top achieving full-time students in Computer\nScience.\n2013-2018\nCIB Bank Bachelor’s degree Full Scholarship:\nAward is covering Tuition Fees of bachelor’s degree of"
+  },
+  {
+    "original_file": "MohamedMaher",
+    "chunk_id": "MohamedMaher_chunk_11",
+    "content": "Communications and Information Engineering at Zewail City of\nScience and Technology.\nTESTS & SCORES IELTS Academic Test\nListening: 7.5 – Reading: 8.0 – Writing: 7.0 – Speaking: 6.5\nOverall Band Score: 7.5\nCode Forces Algorithmic Problem Solving\nExpert (Contest Rating: 1667)\nREFERENCES References are available upon request."
+  },
+  {
+    "original_file": "MohamedMostafa",
+    "chunk_id": "MohamedMostafa_chunk_0",
+    "content": "moh.mostafa.ibra@gmail.com Mohamed Mostafa LinkedIn\n+201146622589 GitHub\nLeetcode\nEducation\nAin Shams University B.S. in Computer Engineering Sep 2018 - July 2023\nRelevant Courses: Deep Learning, Machine Learning, Big Data Analytics. Database Systems, Parallel and\nDistributed Systems.\nProfessional Experience\nData Scientist Mar 2024 - Present\nGiza Systems Cairo, Egypt\n● Built an Agentic document intelligence system with a multilingual chat interface using LangGraph.\n● Developed automated document summarization feature with templates using LangChain.\n● Utilized Django to create RESTful APIs integrating the front end and the processing backend.\nData Science Intern Aug 2023 - Feb 2024"
+  },
+  {
+    "original_file": "MohamedMostafa",
+    "chunk_id": "MohamedMostafa_chunk_1",
+    "content": "Giza Systems Cairo, Egypt\n● Engineered a RAG app for Question Answering complex technical documentation.\n● Developed a data processing pipeline utilizing Adobe PDF Extract and Unstructured Library.\n● Implemented solution using LangChain, ChromaDB, Streamlit, and Mistral 7B.\nResearch Intern June 2023 - Oct 2023\nHuman-Centered Mechatronics Lab Cairo, Egypt\n● Architected an EEG data collection and visualization system for eego sports BCI.\n● Integrated OpenViBE with Lab Streaming Layer for real-time data broadcasting.\n● Developed data processing pipeline and visualizations using MNE library.\nProjects\nTime Series AutoML Engine May 2024"
+  },
+  {
+    "original_file": "MohamedMostafa",
+    "chunk_id": "MohamedMostafa_chunk_2",
+    "content": "● Collaborated with a team to develop an AutoML engine for time series forecasting.\n● Fine-tuned a Large Language Model (LLM) to serve as a meta-model.\n● Containerized backend services using Docker to ensure scalable deployment.\nSelf-driving Car in Shell Eco-Marathon April 2023\n● Led a team to develop a self-driving car for Shell AI Competition 2023.\n● Designed and implemented the autonomous system architecture.\n● Integrated multiple technologies including ROS, RViz, and CARLA for simulation and testing.\nTechnical Skills\nProgramming languages: Experienced in Python and C/C++. Familiar with Java, C#."
+  },
+  {
+    "original_file": "MohamedMostafa",
+    "chunk_id": "MohamedMostafa_chunk_3",
+    "content": "Frameworks and Libraries: Experienced in Scikit-Learn, NumPy, Pandas, Matplotlib, LangChain, PyTorch,\nand Keras. Familiar with Transformers, TensorFlow, PySpark, OpenCV, Django, Unsloth, and ROS.\nOther: MLflow, SQL, Docker, Weaviate, MongoDB, Hadoop, Azure, AWS, CARLA, and NiFi.\nExtracurricular Activities & Competitions\nTechnical Team Lead Feb 2023 - May 2023\nASU Racing Team\n● Led a 9-member team in developing autonomous vehicle simulation using CARLA.\n● Conducted training sessions in ROS, Control Engineering, Path Planning, and Computer Vision."
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_0",
+    "content": "Osama Hamdy Othman\nSenior Data Scientist | Microsoft Power BI Certified (verify here)\nMobile: EG +(20) 100 263 7212 | KSA +(966) 538 168 693\nAddress: Madinaty, Cairo, Egypt.\nEmail: os.othman94@gmail.com\nLinkedIn: Osama Hamdy | LinkedIn\n*References are furnished upon request\nCareer Objective"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_1",
+    "content": "As a seasoned data scientist with more than four years of hands-on experience in designing and deploying intricate machine learning models and end-to-end pipelines, my career objective is to continue pushing the boundaries of data-driven innovation. I aspire to leverage my deep understanding of statistical analysis, ML algorithms, and programming skills to contribute effectively to a dynamic team focused on solving complex challenges. I am eager to collaborate on projects that demand creativity, strategic thinking, and a strong commitment to delivering actionable insights from data"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_2",
+    "content": ". With a proven track record of translating business requirements into successful machine learning solutions, I am dedicated to refining my expertise and staying at the forefront of this ever-evolving field to drive meaningful impact and growth. | As a seasoned data scientist with more than four years of hands-on experience in designing and deploying intricate machine learning models and end-to-end pipelines, my career objective is to continue pushing the boundaries of data-driven innovation. I aspire to leverage my deep understanding of statistical analysis, ML algorithms, and programming skills to contribute effectively to a dynamic team focused on solving complex challenges"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_3",
+    "content": ". I am eager to collaborate on projects that demand creativity, strategic thinking, and a strong commitment to delivering actionable insights from data. With a proven track record of translating business requirements into successful machine learning solutions, I am dedicated to refining my expertise and staying at the forefront of this ever-evolving field to drive meaningful impact and growth."
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_4",
+    "content": "Education | Education\nOct 2019 – Jul 2020 | Data Science Diploma, Information Technology Institute, Smart Village - (1st ranked student)\nMajor: Data Science\nOct 2013 – July 2017 | BSc. of Petroleum Engineering, Faculty of Petroleum Engineering, Suez University.\nGPA: 3.17\nGraduation Project Grade: Excellent.\nProfessional Experience | Professional Experience\nMarch 2023 - Present | Senior Data Scientist – Giza Systems"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_5",
+    "content": "Working on a major project focused on developing an AI platform tailored for crime analysis. This innovative platform employs Graph Analysis techniques to dissect intricate crime patterns and forecast crime rates. We aim to empower decision-makers to strategically optimize the distribution of security patrols, ensuring maximum coverage and efficacy in crime prevention efforts.\nAug 2020 – March 2023 | Data Scientist (Spatial Data Science, GeoAI) – Esri North Africa"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_6",
+    "content": "As a member of market leader company in the GIS field for more than two years, I have participated in many major national projects working with data of very high confidentiality to help decision makers manage their assets, workflows, and workforce. My role encompassed the entire data lifecycle from database management, advanced querying and wrangling to generating comprehensive reports, impactful visualizations and providing tailored information models for stakeholders. Some of these projects included:\nEgyptian Ministry of Communication and Information Technology - Hayah Karima Portal\nEgyptian Ministry of Education – Geoportal\nEgyptian Ministry of Defense – Air Forces"
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_7",
+    "content": "Egyptian Ministry of Defense – Survey Department\nInformation Decision Support Center (Prime Ministry) - IDSC Portal\nPrior Work Experiences:\nMar 2018 - May 2019 | Offshore Drilling engineer – ADES International\nExtra duties:\nOn Job Training (OJT) instructor\nSea survival coach\nJuly 2017 - Mar 2018 | Marketing Specialist – TeePlus\nJuly 2016 - Oct 2016 | Social Media Marketing Specialist – 1UNi – Malaysia (Remote – Part-time)\nSkills | Skills\nTechnical | ML/AI:\nSupervised, Unsupervised, Timeseries, Neural Networks, NLP, Transformers, LLMs, RAG."
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_8",
+    "content": "Data Engineering / Big Data Concepts:\nApache Kafka, Apache Spark, Apache Hadoop\n\nProgramming Languages:\nPython, R, SAS, Java, Bash Scripting.\n\nVisualization Tools:\nPower BI (Microsoft-Certified), Excel, ArcGIS Insights, Dash Plotly.\n\nDatabases:\nSQL, Analytical SQL, PL/SQL, Arango, SSRS, Enterprise Geodatabase."
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_9",
+    "content": "Administration:\nRed Hat Admin1.\nPersonal | Communication\nPresentation\nTeamwork\nLeadership\nLanguages | Arabic – Native\nEnglish – Advanced\nCertificates | Certificates\n2024 | Introduction to Machine Learning in Production – Coursera\nDeveloping LLM Applications with LangChain – DataCamp\nIntermediate Deep Learning with PyTorch – DataCamp\nIntroduction to Deep Learning with PyTorch - DataCamp\n2023 | Linear Algebra for Machine Learning and Data Science - Coursera\nNatural Language Processing with Classification and Vector Spaces – Coursera\n+20 various Datacamp courses.\n2022 | Using Python to Access Web Data – Coursera\nPython Data Structures – Coursera\nVarious Esri Certificates."
+  },
+  {
+    "original_file": "OsamaOthman",
+    "chunk_id": "OsamaOthman_chunk_10",
+    "content": "2021 | Programming for Everybody (Getting Started with Python) – Coursera\n2019 | Data Analyst for Enterprise – Udacity Nanodegree"
+  },
+  {
+    "original_file": "ReemAyman",
+    "chunk_id": "ReemAyman_chunk_0",
+    "content": "Reem Ayman\nData/ML Testing Engineer\nreemayman5299@gmail.com +20 1147814459 ReemAyman ReemAyman\nProfessional Experience Skills\nData/ML Testing Intern Data Science and Engineering\nGiza Systems - Supervised and Unsupervised Machine Learning.\nAug 2023 – Feb 2024 | New Cairo, Egypt - Deep Learning (CNN and RNN - Transformers).\nLearned about the principles and processing of data - Time Series Data and Image Processing.\n•\nand software testing. - Dealing with stream data through ETLs (Apache NiFi,\nCollaborated with the testing team in the testing Kafka).\n•\nprocess and identifying the defects in the projects\nSoftware Engineering and Testing\nassigned for."
+  },
+  {
+    "original_file": "ReemAyman",
+    "chunk_id": "ReemAyman_chunk_1",
+    "content": "assigned for.\n- Manual Testing Cycle and Test Automation (Selenium,\nCollaborated with the data testing member to\n• Robot Frameworks).\nimplement a python package which automated the\n- Design Patterns, SOLID Principles ,OOP and Data\nanalysis of a supervised machine learning model in\nStructures and Algorithms.\nterms of the performance, ethical perspective,\n- APIs and Different Architectures (REST, GraphQL).\nrobustness, GDPR compliance, bias, variance and\n- Relational and Non-Relational DBMS (SQL, MongoDB).\nenvironmental impact.\n- Version Control, Containerization and CI/CD Pipeline.\nJunior Game Developer - Different Frameworks and stacks (Django, MERN,"
+  },
+  {
+    "original_file": "ReemAyman",
+    "chunk_id": "ReemAyman_chunk_2",
+    "content": "Inline Internet Online Dienste GmbH Flutter).\nAug 2022 – Dec 2022 | Remote - Python and its different packages (TensorFlow, NumPy,\nContributed to implementing a prototype and the scikitlearn, pandas).\n•\ntutorial level for a story-based game to teach German\nchildren reading and writing using Unity Game Engine. Projects\nContributed to automating the game build through\n•\nthe CI/CD pipeline and distributing the application Finding Donors in MLCharity - Personal Project\namong team testers in Firebase. Python - Machine Learning Project\nDec 2022\nEducation Trained the model using different classification\n•\nalgorithms."
+  },
+  {
+    "original_file": "ReemAyman",
+    "chunk_id": "ReemAyman_chunk_3",
+    "content": "•\nalgorithms.\nB.Sc in Computer Science and Engineering Tuned the model hyperparameters using the grid\n•\nGerman University in Cairo search which improved its performance in terms of\n2018 – 2022 accuracy and F-score.\nCGPA: 0.94/0.7 (in german scale).\nThe Matrix: Escaped - Academic Project\nJava - Artificial Intelligence Project\nCertificates\nNov 2021 – Dec 2021\nAimed to find the path for the main character Neo to\nDeep Learning Specialization\n•\nrescue all the hostages and escape to the telephone\nMachine Learning Cross-Skilling Track Nanodegree booth before the agents kill Neo or Neo dies with six\nProgram different search algorithms (BFS, DFS, uniform cost,"
+  },
+  {
+    "original_file": "ReemAyman",
+    "chunk_id": "ReemAyman_chunk_4",
+    "content": "greedy, and A*) with two different heuristics.\nPublications Reduced the RAM usage, CPU utilization, and taken\n•\ntime with averages of 2.5%, 5%, and 41.4%\nCatch Me If you Can: An Educational Serious Game to respectively (comparing BFS and A*).\nTeach Grammatical English Rules"
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_0",
+    "content": "Sondos Akram Nasrallah\nsondosakramm@gmail.com\t(+20) - 1122279530\nNasr City, Cairo, Egypt\tLinkedIn\nGitHub\nPROFILE\nTo leverage my passion for machine learning and software testing in a hands-on internship that allows me to contribute to the development and deployment of innovative solutions. With a solid foundation in computer science, I am eager to apply my knowledge and skills to ensure the accuracy, reliability, and efficiency of data-driven technologies. By actively engaging in challenging projects and collaborating within a dynamic team, I aim to gain practical experience while making a meaningful impact in the field of machine learning and quality assurance.\nEDUCATION"
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_1",
+    "content": "EDUCATION\nAin Shams University, Cairo, Egypt | 2019 – 2023\nComputer Science Department Accumulative GPA 3.18 (Very Good)\nKey Modules: Introduction to Computer Science, Structured Programming, OOP, Database, Data Structures, Compilers, Analysis and Design of Algorithms, Quality Assurance, Software Engineering, System Analysis and Design, Agile, Artificial Intelligence, Machine Learning, NLP, Neural Network and Deep Learning.\nAhmed Zewail Language School, Cairo, Egypt | 2014 – 2019\nHigh School Diploma | 2019 – 2020\nACHIEVEMENTS\nISTQB Foundation Level Certification, Certification Code: 240508017\nAdvanced ML Model Evaluation Package here"
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_2",
+    "content": "Completed relevant Coursera courses/certificates: ‘Version Control’, ‘Structuring Machine Learning Projects’, ‘Neural Networks and Deep Learning’, ‘Advanced Learning Algorithms’, ‘Supervised Machine Learning: Regression and Classification’, ‘Ask Questions to Make Data-Driven Decisions’, ‘Foundations Data, Data, Everywhere’.\nWon 1st place in NLP competition 2021-2022 at FCIS – ASU for sentiment analysis of movie reviews.\nFWD Professional and Challenger Track certificates in Data Analysis\nSelenium WebDriver with Java course at Test Automation Course (Certificate on LinkedIn profile), you can find the project here"
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_3",
+    "content": "Accomplished 12.5 second running time of BFS algorithm, 50% faster than original, by optimizing data structures and eliminating redundant operations.\nCompleted 4 Coursera certificate programs in programming foundations with over 95% exam scores on average, acquiring skills in Java, JavaScript and data structures.\nEXPERIENCES\nGiza Systems, Data Tester | 01/03/2024 – Present\nDesigning test cases based on user stories.\nExecuted test cases, identifying potential issues and verifying the system's functionality against expected outcomes.\nBug reporting and retesting after being fixed.\nContribute to enhancing user experience."
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_4",
+    "content": "Collaborating with the developers to ensure alignment with the business requirements.\nSolution proposals for better performance.\nImplementation and Deployment of Advanced ML Model Evaluating Package.\nGiza Systems, Data Testing Headway Intern | 13/08/2023 – 29/02/2024\nTesting Ethics and Bias in ML\nTesting Data Engineering related tasks\nTesting Data science related activities\nSoftware Testing Activities (Manual, Automation, API, Database Testing)\nEva Pharma, Eva Hackathon Intern | 01/08/2022 – 30/09/2022\nOracle Track, ERP SCM Functional\nAlmentor, Intern | 11/07/2021 – 11/10/2021\nWorked with Microsoft Azure Services (Video Analyzer, Text to Speech, Image Analysis)\nSTUDENT ACTIVITIES"
+  },
+  {
+    "original_file": "SondosAkram",
+    "chunk_id": "SondosAkram_chunk_5",
+    "content": "STUDENT ACTIVITIES\nSupport Software Testing Member: Manual Testing, Bug Reports, Test Cases Reports, ISTQB | 2021\nOSC Web Development Member\t| 2020\nACM First Level Member\t| 2019\nADDITIONAL SKILLS\nLanguages: English (Fluent), Arabic (Native)\nSoftware: Microsoft Office (Word, Excel, and PowerPoint), GIT, Visual Studio, Visual Studio Code, NetBeans, IntelliJ, Atom, Anaconda.\nProgramming Languages: C++, Java, HTML, CSS, JavaScript, Python, C, C#, MySQL, Selenium."
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_0",
+    "content": "Eman Ismail Muhammad\nSenior Python Developer, Machine Learning Engineer\n+966 53 205 8393 emanismail.92@gmail.com LinkedIn Riyadh , Saudi Arabia\nPROFESSIONAL SUMMARY\nSeasoned Senior Python Developer and Machine Learning Engineer with over 6 years of experience creating scalable, high-\nperformance software solutions. Expert in Python, JavaScript, and R, with advanced proficiency in frameworks such as Flask\nand Django. Demonstrates strong data structures, algorithms, and artificial intelligence capabilities, utilizing tools like NumPy,\nPandas, Scikit-learn, PySpark, and PyTorch. Skilled in managing real-time data processing with Apache Kafka, containerization"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_1",
+    "content": "with Docker, and version control with Git. Qualified in Kubernetes for container orchestration and Tableau for data\nvisualization. Adept at working with databases, including MongoDB and PostgreSQL, and experienced in deploying applications\non Linux environments. Proven ability to integrate workflow automation using Camunda and dynamic templating with Jinja2.\nKnown for optimizing performance, ensuring code quality, and collaborating effectively with cross-functional teams.\nKEY COMPETENCIES\nData Visualization (Matplotlib/Seaborn) Advanced Python Programming Big Data Technologies (Spark)\nSQL and NoSQL Databases Machine Learning Algorithms Model Deployment"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_2",
+    "content": "Statistical Analysis Data Preprocessing and Cleaning Agile Methodologies\nVersion Control (Git) RESTful APIs Development Deep Learning Frameworks\nCloud Platforms (AWS/Azure/GCP) Object-Oriented Programming Code Optimization & Performance Tuning\nPROFESSIONAL EXPERIENCE\nSenior Python Developer\nSAK – Riyadh, KSA | Oct 2022 — Present\nArchitect and design scalable, high-performance Python-based solutions, ensuring alignment with organizational objectives,\ntechnical requirements, and long-term business strategies.\nLead and facilitate collaboration between technical teams and business stakeholders, translating complex technical concepts\ninto actionable business solutions to enhance project success."
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_3",
+    "content": "Strategically allocate development tasks and manage team resources, balancing workloads to maximize efficiency, meet\ndeadlines, and ensure the delivery of high-quality software solutions.\nOversee and conduct thorough code reviews, enforce best practices, maintain coding standards, and identify opportunities for\noptimization and refactoring to drive continuous improvement.\nDelegate responsibilities across the team, ensuring clarity of roles and fostering a culture of ownership, accountability, and\nprofessional growth while monitoring progress to ensure project milestones are achieved.\nTeaching Assistant"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_4",
+    "content": "Teaching Assistant\nFaculty of Computers and Artificial Intelligence Helwan – Cairo, Egypt | Apr 2014 — May 2023\nFacilitated in-depth instruction and support for undergraduate and graduate courses, including Linear Algebra, Data\nVisualization, and Artificial Intelligence, ensuring students grasped and applied complex concepts effectively.\nDeveloped and implemented comprehensive course materials and assessments for modules such as Data Science I & II,\nPattern Recognition, and Programming I & II, aligning with academic standards and industry advancements.\nMentored students by providing guidance on research projects and academic progress, fostering critical thinking and problem-"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_5",
+    "content": "solving skills in Data Structure and Convex Optimization.\nCollaborated with faculty members to continuously enhance curriculum design, integrate emerging technologies, and promote\na dynamic learning environment across all taught subjects.\nSenior So\u0000ware Developer\nICT Cube – Cairo, Egypt | Sep 2018 — Oct 2022\nLed and managed the entire software development lifecycle, encompassing requirements gathering, system design,\ndevelopment, and production deployment.\nCollaborated closely with cross-functional teams, including business analysts, project managers, and QA engineers, to ensure\neffective integration and functionality of software solutions."
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_6",
+    "content": "Implemented and optimized software solutions by applying industry best practices, coding standards, and advanced\ndevelopment techniques to meet project objectives and enhance performance.\nConducted comprehensive testing and validation of software components to ensure robustness, reliability, and adherence to\nclient specifications while addressing any issues or enhancements post-deployment.\nPROJECTS\nData Wrangler:\nA sophisticated data analysis initiative focused on processing vast volumes of real-time data. Leveraged Kafka as a data\npipeline to streamline ingestion, transformation, and real-time analysis.\nCloner:"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_7",
+    "content": "Cloner:\nAn automated solution designed to enhance the development process, enabling fully isolated development workflows to\noptimize efficiency and minimize disruptions in continuous integration and deployment environments.\nSAK Real Estate Broker:\nA leading real estate brokerage firm specializing in the marketing and selling of properties and land on behalf of top Saudi\nArabian developers, providing expert guidance and driving successful transactions across the region.\nDrDrug:\nA collaborative academic project aimed at developing a platform that provides drug recommendations based on disease\nsymptoms, enhancing decision-making in pharmaceutical and healthcare environments.\nPUBLICATIONS"
+  },
+  {
+    "original_file": "EmanIsmailMuhammad",
+    "chunk_id": "EmanIsmailMuhammad_chunk_8",
+    "content": "PUBLICATIONS\nSemi-Supervised Drug Repositioning Framework based on Drug, Target, and Disease Fingerprints, IJCSN Journal Volume 8\nJul | 2019\nEDUCATION\nPrePhD In Computers and Artificial Intelligence\nHelwan University | 2022\nGPA | 3.5 Out of 5\nMaster Degree In Computers and Artificial Intelligence\nHelwan University | 2019\nBachelor’s Degree In Computers and Artificial Intelligence\nHelwan University | 2013\nGPA | 3.73 out of 5\nLANGUAGES\nArabic\nEnglish"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_0",
+    "content": "General access\nPersonal Information\nName: Salma Mansour Hassan Phone: +201129834111\nEmail: Salmamansour_96@outlook.com GitHub: https://github.com/salmamansour96\nLinkedIn: www.linkedin.com/in/salma-mansourh Kaggle: https//www.kaggle.com/salmamansour\nSummary\nExperienced Data Scientist and AWS-certified Machine Learning Specialist with a successful 6 year track\nrecord. Specialized in deploying machine learning algorithms to address complex business challenges,\nshowcasing proficiency in roles at Alkan Business Vision and ISNSC. Holds a Post-Graduate Diploma in AI\nfrom ITI and a Bachelor's degree in Computers and Information from Ain Shams University. Adept at managing"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_1",
+    "content": "intricate projects, with a diverse portfolio including the identification of financial anomalies and validation of\nfinancial invoices. Passionate about leveraging AI to solve real-world problems, contributing valuable insights\nto organizational success.\nEducation\n2021 – 2022 Post-Graduate Diploma, Artificial Intelligence and Machine Learning track,\nInformation Technology Institute (ITI) L’ÉCOLE DES\nINGÉNIEURS EN INTELLIGENCE INFORMATIQUE (EPITA)\n2014 – 2018 Bachelor’s Degree, Faculty of Computers and Information, Ain Shams University\nExperience\nAugust 2024-Present\nGiza systems\nSenior Data Scientist\n• Supervise and mentor a team of five junior data scientists and one mid-level data"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_2",
+    "content": "scientist, fostering their professional development and ensuring the successful delivery of\ncomplex data-driven projects.\n• Apply cutting-edge data mining and machine learning techniques to uncover hidden\npatterns and valuable insights from large-scale datasets, transforming data into a\ncompetitive advantage.\n• Provide senior leadership with data-driven strategic insights, shaping organizational\ndecisions and enabling the delivery of enhanced products and services that align with\nbusiness goals.\n• Perform advanced statistical analyses to identify trends, correlations, and outliers,\nempowering the organization with informed, evidence-based decision-making processes."
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_3",
+    "content": "• Design and implement high-performance predictive models and AI systems, seamlessly\nintegrating them into the company’s products to boost functionality, efficiency, and\nmarket competitiveness.\n• Deliver enterprise-level Data Analytics and Artificial Intelligence solutions that offer a\ncomprehensive view of the organization's operations, equipping executive stakeholders\nwith actionable intelligence to optimize decision-making and drive business outcomes at\nscale.\nGeneral access\nApril 2022 – August 2024\nAlkan Business Vision\nData Scientist\n• Collaborate across diverse sectors such as healthcare, finance, e-commerce, and software"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_4",
+    "content": "solutions, leveraging advanced data science techniques to extract actionable insights.\n• Employ sophisticated data mining techniques to uncover latent patterns and extract valuable\ninformation from extensive datasets.\n• Drive organizational decision-making by providing strategic insights derived from data\nanalysis, enabling the delivery of superior products and services.\n• Utilize statistical analysis to identify trends, correlations, and anomalies, facilitating\ninformed decision-making processes.\n• Develop and implement high-quality prediction systems integrated seamlessly with the\ncompany's products, enhancing their functionality and performance."
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_5",
+    "content": "• Deliver comprehensive Data Analytics and Artificial Intelligence solutions that provide a\nholistic view of the organization's operations, empowering stakeholders with actionable\nintelligence for optimized decision-making and improved outcomes.\nSeptember 2018 – April 2022\nISNSC\nMachine Learning Engineer\n• Design and implement cutting-edge machine learning algorithms to address complex\nbusiness challenges, ensuring optimal performance and scalability.\n• Conduct thorough data analysis and modeling to extract actionable insights from large\ndatasets, facilitating informed decision-making processes.\n• Collaborate closely with cross-functional teams to develop innovative solutions that meet"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_6",
+    "content": "the organization's objectives and enhance product offerings.\n• Utilize expertise in building robust data pipelines to streamline the flow of data and ensure\nGeneral access\nefficient processing and storage.\n• Develop scalable machine learning solutions that can handle large volumes of data and\nadapt to evolving business requirements.\n• Stay abreast of the latest advancements in machine learning techniques and technologies,\ncontinually enhancing skills and knowledge to drive innovation and efficiency in projects.\nProjects\nFinancial Invoice Validation (August 2023 – December 2023)\nI utilized LLM to implement an automated invoice validation system leveraging PyTorch and transfer"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_7",
+    "content": "learning. This initiative resulted in a notable 30% reduction in invoice processing time and substantial\ncost savings.\nTelecom Chatbot (September 2022 - January 2024)\nDeveloped and deployed a customer service Chatbot for a Telecom Company using IBM Watson\nAssistant, resulting in a 40% reduction in customer service inquiries and a 20% increase in customer\nsatisfaction.\nJournal Entry Anomaly Detection (March 2023 – July 2023)\nSuccessfully identified and flagged fraudulent activities within financial transactions and business\noperations using TensorFlow, resulting in a 25% reduction in financial losses.\nAgriculture (July 2022 – December 2022)"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_8",
+    "content": "Utilized Deep Learning and Phenological models to detect crop diseases using Keras, reducing crop\nloss by 15% and saving costs for farmers.\nOil and Gas (July 2022 – December 2022)\nApplied AI techniques in seismic interpretation, well logging, fault mapping, refinery optimization,\nand ROP/EOR forecasting, leading to a 10% increase in overall operational efficiency and a cost\nsavings.\nKaggle Competitions (July 2021 – November 2021)\nAchieved top rankings in various Kaggle competitions, including Arabic Handwritten Characters\nRecognition and Seoul Bike Rental Prediction, using Sklearn demonstrating strong data science and\nmachine learning skills.\nVehicle Detection (April 2021 – July 2021)"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_9",
+    "content": "Contributed to the Vehicle Detection and Tracking project using Pytorch at Providence ISNSC,\nimproving vehicle detection accuracy by 15%.\nImage Quality Enhancement (October 2020 – March 2021)\nEnhanced image quality and enlarged images using Keras, resulting in a 25% improvement in image\nclarity and usability.\nTopic Categorization (June 2020 - October 2020)\nSuccessfully categorized Arabic datasets using TensorFlow, improving data organization and\naccessibility for research teams.\nTopic Categorization (March 2019 – June 2020)\nContributed to the categorization of English datasets using TensorFlow, enhancing data management\nand retrieval.\nGeneral access"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_10",
+    "content": "General access\nEnglish Sentiment Analysis (December 2019 – February 2020)\nConducted sentiment analysis for English datasets using Pytorch, providing valuable insights into\ncustomer opinions and feedback.\nArabic Sentiment Analysis (October 2019 – November 2019)\nConducted sentiment analysis for Arabic datasets using Pytorch, aiding in understanding customer\nsentiment and preferences.\nFake Domain Names Detection (June 2019 - September 2019)\nDeveloped a robust system to detect fake domain names, enhancing security measures and reducing\npotential threats by 20%.\nUser Behavior Analysis (January 2019 – May 2019)"
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_11",
+    "content": "Analyzed website user behavior, leading to a 25% reduction in fraudulent activities and improved\nwebsite security.\nAttack Rate Prediction (September 2018 – December 2018)\nSuccessfully predicted the number of attacks in time series data, aiding in proactive security measures\nand reducing security incidents by 15%.\nTechnical Skills and Conceptual Knowledge\nProgramming / Concepts: Java, C++, Python, Probability & Statistics, Mathematics, Numerical Optimization,\nData Structures, Algorithms, Data Preparation and Exploration, Machine Learning,\nDeep Learning, Computer Vision, Natural Language Processing (NLP), Recommender\nSystems, Problem Solving."
+  },
+  {
+    "original_file": "SalmaMansour",
+    "chunk_id": "SalmaMansour_chunk_12",
+    "content": "Frameworks: Pandas, Scikit-learn, Pytorch, TensorFlow\nDatabases: SQL, NoSQL, Spark\nData Visualization: Python, Power BI\nCloud: Microsoft azure, Amazon Web Services (AWS)\nContainerization: Docker\nCourses\n• Machine Learning Nanodegree\n• MCIT & NVIDIA AI for Science Bootcamp 2021\n• AWS Machine Learning Foundation\n• Datacamp Courses\n• AWS Cloud Practitioner\n• MLOps\nAdditional Information\nNationality: Egyptian\nAddress: Cairo, Egypt\nLanguages: Arabic (Native)\nEnglish (Fluent)\nReferences are available upon request."
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_0",
+    "content": "Personal Information\nName: Salma Mansour Hassan Phone: +201129834111\nEmail: Salmamansour_96@outlook.com G itHub: https://github.com/salmamansour96\nLinkedIn: www.linkedin.com/in/salma-mansourh Kaggle: https//www.kaggle.com/salmamansour\nSummary\nExperienced Data Scientist and AWS-certified Machine Learning Specialist with a successful 5 year track\nrecord. Specialized in deploying machine learning algorithms to address complex business challenges,\nshowcasing proficiency in roles at Alkan Business Vision and ISNSC. Holds a Post-Graduate Diploma in AI\nfrom ITI and a Bachelor's degree in Computers and Information from Ain Shams University. Adept at managing"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_1",
+    "content": "intricate projects, with a diverse portfolio including the identification of financial anomalies and validation of\nfinancial invoices. Passionate about leveraging AI to solve real-world problems, contributing valuable insights\nto organizational success.\nEducation\n2021 – 2022 Post-Graduate Diploma, Artificial Intelligence and Machine Learning track,\nInformation Technology Institute (ITI) L’ÉCOLE DES\nINGÉNIEURS EN INTELLIGENCE INFORMATIQUE (EPITA)\n2014 – 2018 Bachelor’s Degree, Faculty of Computers and Information, Ain Shams University\nExperience\nApril 2022 – Present\nAlkan Business Vision\nData Scientist\n• Collaborate across diverse sectors such as healthcare, finance, e-commerce, and software"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_2",
+    "content": "solutions, leveraging advanced data science techniques to extract actionable insights.\n• Employ sophisticated data mining techniques to uncover latent patterns and extract valuable\ninformation from extensive datasets.\n• Drive organizational decision-making by providing strategic insights derived from data\nanalysis, enabling the delivery of superior products and services.\n• Utilize statistical analysis to identify trends, correlations, and anomalies, facilitating\ninformed decision-making processes.\n• Develop and implement high-quality prediction systems integrated seamlessly with the\ncompany's products, enhancing their functionality and performance."
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_3",
+    "content": "• Deliver comprehensive Data Analytics and Artificial Intelligence solutions that provide a\nholistic view of the organization's operations, empowering stakeholders with actionable\nintelligence for optimized decision-making and improved outcomes.\nSeptember 2018 – April 2022\nISNSC\nMachine Learning Engineer\n• Design and implement cutting-edge machine learning algorithms to address complex\nbusiness challenges, ensuring optimal performance and scalability.\n• Conduct thorough data analysis and modeling to extract actionable insights from large\ndatasets, facilitating informed decision-making processes.\n• Collaborate closely with cross-functional teams to develop innovative solutions that meet"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_4",
+    "content": "the organization's objectives and enhance product offerings.\n• Utilize expertise in building robust data pipelines to streamline the flow of data and ensure\nefficient processing and storage.\n• Develop scalable machine learning solutions that can handle large volumes of data and\nadapt to evolving business requirements.\n• Stay abreast of the latest advancements in machine learning techniques and technologies,\ncontinually enhancing skills and knowledge to drive innovation and efficiency in projects.\nProjects\nFinancial Invoice Validation (August 2023 - Present)\nImplemented an automated invoice validation system using Pytorch and transfer learning, leading to"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_5",
+    "content": "a 30% reduction in invoice processing time and cost savings.\nTelecom Chatbot (September 2022 - Present)\nDeveloped and deployed a customer service Chatbot for a Telecom Company using IBM Watson\nAssistant, resulting in a 40% reduction in customer service inquiries and a 20% increase in customer\nsatisfaction.\nJournal Entry Anomaly Detection (March 2023 – July 2023)\nSuccessfully identified and flagged fraudulent activities within financial transactions and business\noperations using TensorFlow, resulting in a 25% reduction in financial losses.\nAgriculture (July 2022 – December 2022)\nUtilized Deep Learning and Phenological models to detect crop diseases using Keras, reducing crop"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_6",
+    "content": "loss by 15% and saving costs for farmers.\nOil and Gas (July 2022 – December 2022)\nApplied AI techniques in seismic interpretation, well logging, fault mapping, refinery optimization,\nand ROP/EOR forecasting, leading to a 10% increase in overall operational efficiency and a cost\nsavings.\nKaggle Competitions (July 2021 – November 2021)\nAchieved top rankings in various Kaggle competitions, including Arabic Handwritten Characters\nRecognition and Seoul Bike Rental Prediction, using Sklearn demonstrating strong data science and\nmachine learning skills.\nVehicle Detection (April 2021 – July 2021)\nContributed to the Vehicle Detection and Tracking project using Pytorch at Providence ISNSC,"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_7",
+    "content": "improving vehicle detection accuracy by 15%.\nImage Quality Enhancement (October 2020 – March 2021)\nEnhanced image quality and enlarged images using Keras, resulting in a 25% improvement in image\nclarity and usability.\nTopic Categorization (June 2020 - October 2020)\nSuccessfully categorized Arabic datasets using TensorFlow, improving data organization and\naccessibility for research teams.\nTopic Categorization (March 2019 – June 2020)\nContributed to the categorization of English datasets using TensorFlow, enhancing data management\nand retrieval.\nEnglish Sentiment Analysis (December 2019 – February 2020)"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_8",
+    "content": "Conducted sentiment analysis for English datasets using Pytorch, providing valuable insights into\ncustomer opinions and feedback.\nArabic Sentiment Analysis (October 2019 – November 2019)\nConducted sentiment analysis for Arabic datasets using Pytorch, aiding in understanding customer\nsentiment and preferences.\nFake Domain Names Detection (June 2019 - September 2019)\nDeveloped a robust system to detect fake domain names, enhancing security measures and reducing\npotential threats by 20%.\nUser Behavior Analysis (January 2019 – May 2019)\nAnalyzed website user behavior, leading to a 25% reduction in fraudulent activities and improved\nwebsite security."
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_9",
+    "content": "website security.\nAttack Rate Prediction (September 2018 – December 2018)\nSuccessfully predicted the number of attacks in time series data, aiding in proactive security measures\nand reducing security incidents by 15%.\nTechnical Skills and Conceptual Knowledge\nProgramming / Concepts: Java, C++, Python, Probability & Statistics, Mathematics, Numerical Optimization,\nData Structures, Algorithms, Data Preparation and Exploration, Machine Learning,\nDeep Learning, Computer Vision, Natural Language Processing (NLP), Recommender\nSystems, Problem Solving.\nFrameworks: Pandas, Scikit-learn, Pytorch, TensorFlow\nDatabases: SQL, NoSQL, Spark\nData Visualization: Python, Power BI"
+  },
+  {
+    "original_file": "SalmaMansourHassan",
+    "chunk_id": "SalmaMansourHassan_chunk_10",
+    "content": "Cloud: Microsoft azure, Amazon Web Services (AWS)\nContainerization: Docker\nCourses\n• Machine Learning Nanodegree\n• MCIT & NVIDIA AI for Science Bootcamp 2021\n• AWS Machine Learning Foundation\n• Datacamp Courses\n• AWS Cloud Practitioner\n• MLOps\nAdditional Information\nNationality: Egyptian\nAddress: Cairo, Egypt\nLanguages: Arabic (Native)\nEnglish (Fluent)\nReferences are available upon request."
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_0",
+    "content": "Mahmoud Mostafa Helmy\nSoftware Engineer - Machine Learning\nmmhelmy1999@gmail.com +2 01119223750\nCairo, Egypt mahmoudmostafahelmy\nmahmoudmostafa0 Exempted\nProfessional Experience\n2022/09 – present Software Engineer - Machine Learning\nCairo, Egypt Giza Systems\nApplied object-oriented programming (OOP) principles to develop modular and\n•\nmaintainable Python code.\nWorking On Microservice Architecture\n•\nBuilding APIs using Django and DjangoRestFramework\n•\nBuilding GraphQL endpoints using Graphene-Django\n•\nOrchestrated data workflows efficiently with Apache Airflow, ensuring timely data\n•\nprocessing.\nCreating ETL Pipelines for Intelligent Traffic Management using Apache NIFI\n•"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_1",
+    "content": "•\nContainerized Microservices using Docker, enabling consistent deployment across\n•\nLinux-based environments.\nCreated and managed CI/CD pipelines using Azure DevOps Pipelines for automated\n•\ndeployments.\nCreated and deployed interactive dashboards using Kibana for data visualization and\n•\nreal-time insights.\nImplemented Redis as a caching mechanism for microservices, improving data\n•\nretrieval speed and system performance.\nDesigned, developed, and maintained machine learning pipelines using PySpark,\n•\nenabling efficient data processing and modeling.\nAdministration and installation of Hadoop to store data processed parallelly using\n•\nSpark"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_2",
+    "content": "•\nSpark\nUtilized MLflow for managing and tracking machine learning experiments,\n•\nfacilitating reproducibility, model management, and version control.\nIntegrated Kafka for real-time data streaming between Microservices and event-\n•\ndriven architecture, ensuring timely data ingestion and processing.\nDeveloped simulators using Node-RED to mimic real-world scenarios for testing and\n•\nvalidation.\nDesigned and implemented comprehensive unit tests for codebase, ensuring code\n•\nquality, reliability, and maintainability.\nUtilized Git for version control, ensuring effective collaboration, code tracking, and\n•\nversion management."
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_3",
+    "content": "version management.\nCollaborated closely with cross-functional Agile teams, including product owners,\n•\nScrum Masters, and other developers, to deliver high-quality software solutions in\niterative sprints, ensuring alignment with customer requirements and adapting to\nchanging priorities.\n2021/11 – 2022/01 Desktop Developer Intern\nCairo, Egypt NileCom\nWorking on .NET framework Application to communicate with the government E-\n•\nBilling System APIs\nEnhancing Application Security and Performance\n•\n2021/08 – 2021/09 ASP.NET Developer Intern\nCairo, Egypt FlairsTech\nCreating A Logging Microservice using ASP.net MVC Using .NET core 6\n•\n2018/01 Desktop Developer Freelancer\nUpwork\nEducation"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_4",
+    "content": "Upwork\nEducation\n2018 – 2022 Bachelor of Computer and Information Science\nCairo, Egypt Ain Shams University\n2003 – 2018 Thanawya Amma\nCairo, Egypt Nokrashy Language School\nCertificates\nAltryx Micro-Credential Certified Machine Learning - Coursera\nTime Series Forecasting - Kaggle\nAwards\n2022/07 Natural Language Processing Project First Rank (Sentence To Sentence Semantic\nSimilarity)\nDr. Sally Saad\nAchieved first rank in the Natural Language Processing Project Course Sentence To\nSentence Semantic Similarity\n2020/07 Data Structures Course Excellence\nDr. Wedad Huessein\nCertificate for the great efforts in the data structure course."
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_5",
+    "content": "2021/02 Machine Learning Project First Rank (Amazon Product Rating Prediction)\nDr. Dina Khattab\nAchieved first rank in the Machine Learning course project Amazon Product Rating\nPrediction\nLanguages\nEnglish (Fluent) Arabic (Native)\nProjects\n2022/11 – present Inelegant Transportation System\nGiza Systems\nDesigned and constructed a robust integration layer connecting various radar and\n•\ntraffic camera vendors such as Tattile, Flair, Avidbeam, and Yunex.\nFacilitated secure data transfer to our proprietary platform, \"IDP,\" and the \"Yunex\n•\nTraffic Management System.\"\nDeveloped custom connectors and interfaces tailored to each camera vendor's data\n•"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_6",
+    "content": "•\nformat and APIs, ensuring seamless data extraction.\nDesigned the system for scalability, accommodating new camera vendors and\n•\nincreased data volumes.\nMaintained reliability to ensure data consistency and availability.\n•\nTechnologies Used:\nApache NIFI\n•\nRedis\n•\nNTCIP\n•\nJython\n•\nGroovy\n•\n2022/09 – present KPIs Service\nGiza Systems\nKPIs Service is a microservice application inside the IDP(Industrial Digitalization\n•\nPlatform) for executing custom equations and displaying real-time results.\nUsers can input their own equations for calculation.\n•\nThe microservice employs Kafka for data ingestion and communication.\n•\nEquations are implemented.\n•"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_7",
+    "content": "•\nThe service is highly scalable to accommodate varying user demands.\n•\nResults are displayed in a user-friendly format.\n•\nSecurity measures ensure data confidentiality.\n•\nTechnologies Used:\nMicroservices Architecture\n•\nKafka\n•\nDocker\n•\nPython\n•\nDjango\n•\nPostgreSQL\n•\nMonitoring and Logging (ELK Stack)\n•\n2022/05 – 2022/06 Real-Time Video Fire Detection\nGraduation Project\nDeveloped a real-time video fire detection system, enabling the identification of fires\n•\nin live CCTV camera feeds.\nAchieved an Excellent grade for the project.\n•\nTechnologies Used:\nPython\n•\nYOLOv5\n•\nPyTorch\n•\nMachine Learning\n•\nFlask\n•\n2020/07 – present Trademe.co.nz Auto Deliver\nFreelancing Project"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_8",
+    "content": "Freelancing Project\nCreated an automated system for monitoring seller accounts on Trademe.co.nz.\n•\nVerified user payments and delivered product keys promptly.\n•\nUtilized C# .NET Framework, SQLite Database, Trademe.co.nz API, and SMTP for\n•\nseamless operation.\nTechnologies Used:\nC# .NET Framework\n•\nSQLite Database\n•\nTrademe.co.nz API\n•\nSMTP\n•\n2018/03 – present eBay Arbitrage\nFreelancing Project\nConducted product listing and pricing optimization on eBay UK by scraping\n•\nAmazon.com.au products.\nEmployed C# .NET Framework, Windows Forms, SQLite Database, NHibernate\n•\nDatabase, and web scraping techniques.\nManaged eBay interactions using eBay Trading API and eBay Large Merchant API.\n•"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_9",
+    "content": "•\nTechnologies Used:\nC# .NET Framework\n•\nWindows Forms\n•\nSQLite Database\n•\nNHibernate Database\n•\nWeb Scraping\n•\nHTML Parsing\n•\n2021/12 – 2022/01 Music Recognition\nImage Processing Course Project\nDeveloped a music recognition system using image processing techniques.\n•\nImplemented in MATLAB.\n•\nTechnologies Used:\nMATLAB\n•\nImage Processing\n•\n2019/03 – 2022/11 Transfermarkt.co.uk Scrapper\nFreelancing Project\nScraped player data and statistics from English leagues, saving the information in\n•\nExcel files.\nUsed the data for player attribute prediction and mobile soccer game development.\n•\nTechnologies included C# .NET Framework, Windows Forms, SQLite Database, web\n•"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_10",
+    "content": "•\nscraping, HTML parsing, and machine learning.\nTechnologies Used:\nC# .NET Framework\n•\nWindows Forms\n•\nSQLite Database\n•\nWeb Scraping\n•\nHTML Parsing\n•\nMachine Learning\n•\n2020/04 – 2020/06 Plants VS Zombies\nOOP Course Project\nDesigned and developed a tower-defense game featuring zombies and plant-based\n•\ndefenses.\nCreated using Java and the LIBGDX framework.\n•\nTechnologies Used:\nJava\n•\nLIBGDX Framework\n•\n2022/05 – 2022/06 Weather Analysis Using Deep Learning\nNeural Network Course Project\nImplemented weather analysis using image recognition with neural networks.\n•\nUtilized Python and TensorFlow for the project.\n•\nTechnologies Used:\nPython\n•\nTensorFlow\n•\n2020/02 – 2020/03 Ikea Scrapper"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_11",
+    "content": "Freelancing Project\nConducted web scraping to gather product data from www.ikea.com, organizing it\n•\ninto Excel files.\nDeveloped using C# .NET Framework, Windows Forms, Excel, HTML parsing, and\n•\nweb scraping techniques.\nTechnologies Used:\nC# .NET Framework\n•\nWindows Forms\n•\nExcel\n•\nHTML Parsing\n•\nWeb Scraping\n•\n2022/05 – 2022/06 Amazon Product Rating\nMachine Learning Course Project\nDeveloped a machine learning model for predicting Amazon product ratings based on\n•\nKaggle dataset .\nUtilized Python and the Scikit-learn library for machine learning.\n•\nTechnologies Used:\nPython\n•\nScikit-learn\n•\nOpen Source Contributions\n2023/08 Graphene-Django"
+  },
+  {
+    "original_file": "MahmoudHelmy",
+    "chunk_id": "MahmoudHelmy_chunk_12",
+    "content": "Contributed in the GraphQL library that runs on top of Django Framework.\nv3.1.6\nAdded optional_field in Serializermutation"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_0",
+    "content": "Mahmoud Saeed\n+201113936587| mahmoud.saeed.3699@gmail.com | GitHub | LinkedIn| Kaggle | codingNingas | HackerRank | Military Status: Completed. | Nationality: Egyptian\nProfessional Experience\nSoftWare-Machine Learning Engineer\nGiza Systems — August 2023 – Present\nIndustrial Digitalization Platform (IDPML) Project:\nDeveloped user-friendly low-code/no-code interfaces for AI/ML model analytics.\nIntegrated AutoML algorithms, optimizing model selection and hyperparameter tuning.\nAutomated large-scale and streaming data model deployments, reducing MLOps costs.\nKey Contributions:\nEnhanced data quality with point anomaly detection\nresolved ETL issues in the Apache NiFi pipeline."
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_1",
+    "content": "Scheduled Automated daily tasks to get model performance using Apache Airflow, like the success rate for prediction hits, average response time for each hit, and anomaly rate compared with actual data.\nBuilt GraphQL endpoints and models in the Django framework.\nWrote a Python script that uploaded configurations on keylock for user-management\nDPI scorecard Project:\nBuilt and scheduled KPIs using airflow.\nBuilt endpoint to retrieve calculated KPIs from clickhouse database.\nBuilt query builder that builds a clickhouse query to retrieve specific data based on some constraint \nPOC Projects:\nGizaAutoML:"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_2",
+    "content": "GizaAutoML:\nUsed Tpot to benchmark the data to compare it with the Auto ml time series that was built by my teammate\nApply Quota on the knowledgebase ( vector store) using Django Throttling to limit the hit of the knowledgebase.\nCreate an Azure pipeline to take copies of volumes (vector store, postgresql) and the latest updated container as tar files into another machine and build them.\nGraph Neural Network (GNN) Research:\nConducted research on different GNN architectures and their suitability for multivariate time series data.\nBenchmarking involved comparing StemGNN with TPGNN and STGCN to evaluate performance on datasets such as METRA, PeMSD7, and PeMS-Bay."
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_3",
+    "content": "Focused on assessing model performance, loss metrics, and their fit for complex multivariate time series problems.\nFed-Forecaster for time series :\nBuilt a meta-model in a federated learning context using Grid Search to create a Knowledge Base. This involved extracting meta-features from clients and aggregating them.\nEvaluated all models in the search space to find the best algorithms for these meta-features.\nDeveloped a Federated Learning Pipeline using Flower Framework to perform Random Search and meta-model search, benchmarking the results against N-BEATS."
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_4",
+    "content": "Applied Bayesian Optimization within the federated context to fine-tune the meta-model's hyperparameters, ensuring optimal model performance.\nData science and Business Analytics (Virtual internship)\nThe Sparks Foundation — June 2022 – July 2022\nI have used Python to clean, exploration, and analyze data deeply. \nAlso used Sklearn for Kmean-cluster, Linear Regression, and Decision tree. \nUsed NLP to predict sentiment Using Random Forest Classifier and nltk.\nEducation\nJuly 2021\nFaculty of Computers and Artificial Intelligence | IS – DS departments | Cairo University.\nProjects\nSentiment analysis (Graduation Project), [Machine learning, python, Amazon scrapping, twitter API,] Grade: A+"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_5",
+    "content": "make data cleaning, exploratory, and making deep analyses using python\nUsed nltk and spacy to get aspects from the data.\npredicted sentiment Using Decision tree Classifier.\nheart-failure-prediction-Notebook [Machine learning, python]\nPredict heart failure using different machine learning algorithms\nget deep insights from data using pandas \nFake News Detection[Python, machine learning, nlp]\nClean and make Tf-Idf technique to get the count of words for each sentence\nImplement machine learning algorithm to predict the fake news\nMovie Recommendation[Python, nlp]\nImplement 3 different techniques to recommend the movies based on Vote, title, overview, and genres"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_6",
+    "content": "Meta-Database-Capstone-Project  [MySQL, stored procedure, join, sub query, view].\nImplement stored procedures and sub-queries to make analysis using MySQL\nNetflix Analysis Python pyspark[Python, pyspark, analysis]\nAnalysis Netflix movies dataset using pyspark\nImplemented Naïve Bayes, Apriori algorithm, and K-mean clustering from scratch.\nAzure projects [Azure, dataflow, pipeline, azure SQL database, SC-dimension type (1,2,3)].\nEDA Supermarket Sales Pyspark [Python, pyspark, analysis]\nAnalysis supermarket sales dataset using pyspark\nNetflix Analysis Python pyspark [Python, pyspark, analysis]\n Analysis Netflix movies dataset using pyspark"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_7",
+    "content": "Sentiment using Logistic Regression [Machine learning, python, NLP]\n Implement Logistic Regression algorithm to predict sentiment\nAwards, Accomplishments\t\nDataiku certificates in [ Core Designer, ML Practitioner, Advanced Designer]\nData Analysis Professional and Advanced Track in Udacity (FWD) ∙\n Applied text mining with Python ∙\n Natural language processing with classification ∙ \nintermediate SQL ∙\n Meta database Engineering ∙\nSkills\t\nProgramming Languages: Python, Java\nMachine Learning & AI: AutoML, Classification, Regression, Time Series Analysis\nFrameworks & Tools: Sklearn, PySpark, TPOT, Flower, Apache NiFi, Apache Airflow\nDatabases: MySQL, MongoDB, PostgreSQL"
+  },
+  {
+    "original_file": "MahmoudSaeed",
+    "chunk_id": "MahmoudSaeed_chunk_8",
+    "content": "Web Technologies: Django, GraphQL\nOther Skills: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_0",
+    "content": "Moataz Mansour Anwer\n\nMobile : (002) 0121 037 1286\nE-mail: moataz.mansour.07@gmail.com \nAddress (Alexandria): Sporting, Alexandria, Egypt\nBirthplace: Alexandria.     \nNationality:  Egyptian.\nGitHub:  https://github.com/Moataz-96\nLinkedIn: https://www.linkedin.com/in/moataz-mansour-030a371bb/ | Moataz Mansour Anwer\n\nMobile : (002) 0121 037 1286\nE-mail: moataz.mansour.07@gmail.com \nAddress (Alexandria): Sporting, Alexandria, Egypt\nBirthplace: Alexandria.     \nNationality:  Egyptian.\nGitHub:  https://github.com/Moataz-96\nLinkedIn: https://www.linkedin.com/in/moataz-mansour-030a371bb/ | Moataz Mansour Anwer"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_1",
+    "content": "Mobile : (002) 0121 037 1286\nE-mail: moataz.mansour.07@gmail.com \nAddress (Alexandria): Sporting, Alexandria, Egypt\nBirthplace: Alexandria.     \nNationality:  Egyptian.\nGitHub:  https://github.com/Moataz-96\nLinkedIn: https://www.linkedin.com/in/moataz-mansour-030a371bb/ | Moataz Mansour Anwer\n\nMobile : (002) 0121 037 1286\nE-mail: moataz.mansour.07@gmail.com \nAddress (Alexandria): Sporting, Alexandria, Egypt\nBirthplace: Alexandria.     \nNationality:  Egyptian.\nGitHub:  https://github.com/Moataz-96\nLinkedIn: https://www.linkedin.com/in/moataz-mansour-030a371bb/ | Moataz Mansour Anwer"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_2",
+    "content": "Mobile : (002) 0121 037 1286\nE-mail: moataz.mansour.07@gmail.com \nAddress (Alexandria): Sporting, Alexandria, Egypt\nBirthplace: Alexandria.     \nNationality:  Egyptian.\nGitHub:  https://github.com/Moataz-96\nLinkedIn: https://www.linkedin.com/in/moataz-mansour-030a371bb/\nEducation\nB.S. in computer and communication engineering (2020),                                             University of Alexandria, Faculty of Engineering.\nGrade: “3.13”, “84.77%”, “Very Good”.      \nJob title: Software engineer Machine learning. | Education\nB.S. in computer and communication engineering (2020),                                             University of Alexandria, Faculty of Engineering."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_3",
+    "content": "Grade: “3.13”, “84.77%”, “Very Good”.      \nJob title: Software engineer Machine learning. | Education\nB.S. in computer and communication engineering (2020),                                             University of Alexandria, Faculty of Engineering.\nGrade: “3.13”, “84.77%”, “Very Good”.      \nJob title: Software engineer Machine learning. | Education\nB.S. in computer and communication engineering (2020),                                             University of Alexandria, Faculty of Engineering.\nGrade: “3.13”, “84.77%”, “Very Good”.      \nJob title: Software engineer Machine learning. | Education"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_4",
+    "content": "B.S. in computer and communication engineering (2020),                                             University of Alexandria, Faculty of Engineering.\nGrade: “3.13”, “84.77%”, “Very Good”.      \nJob title: Software engineer Machine learning.\nSkills\nSoftware engineering:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_5",
+    "content": "I'm a Python expert with 6+ years of experience, focusing on writing clean, efficient code for high-traffic applications. Experienced in Django, I develop scalable web apps, including real-time chat services using Django Channels and Redis,  I've got experience using Airflow to schedule and manage tasks like sending emails and SMS messages, I'm skilled in deploying apps on AWS, using technologies like Elastic Beanstalk and ECS with load balancers. My toolkit includes Celery, Docker, Redis, Selenium for testing, and front-end technologies. I also work with MySQL, Neo4J, and Git.\nAnalytics Platforms:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_6",
+    "content": "I've also enhanced my skills with Alteryx, earning three certifications: Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential, and Alteryx Designer Core Certification. This has strengthened my ability to analyze data, build models, and automate data processes.\nData Science:\nWith a solid grasp of machine learning tools (Scikit-learn, TensorFlow, Keras, PyTorch), I've deployed projects (e.g., LipSync, FaceSwapping) on AWS. I understand machine learning algorithms, neural networks, and NLP, and apply statistics for data analysis and visualization."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_7",
+    "content": "Cloud Architecture:\nI manage AWS services (EC2, RDS, S3, ECS) to build secure, scalable cloud solutions. My expertise includes cloud security and CI/CD pipelines, enhancing project deployment and management."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_8",
+    "content": "Agile:\nI use Agile methods to improve software development processes, utilizing Jira and Clickup, and Azure DevOps for project management and focusing on functional product design. | Skills\nSoftware engineering:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_9",
+    "content": "I'm a Python expert with 6+ years of experience, focusing on writing clean, efficient code for high-traffic applications. Experienced in Django, I develop scalable web apps, including real-time chat services using Django Channels and Redis,  I've got experience using Airflow to schedule and manage tasks like sending emails and SMS messages, I'm skilled in deploying apps on AWS, using technologies like Elastic Beanstalk and ECS with load balancers. My toolkit includes Celery, Docker, Redis, Selenium for testing, and front-end technologies. I also work with MySQL, Neo4J, and Git.\nAnalytics Platforms:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_10",
+    "content": "I've also enhanced my skills with Alteryx, earning three certifications: Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential, and Alteryx Designer Core Certification. This has strengthened my ability to analyze data, build models, and automate data processes.\nData Science:\nWith a solid grasp of machine learning tools (Scikit-learn, TensorFlow, Keras, PyTorch), I've deployed projects (e.g., LipSync, FaceSwapping) on AWS. I understand machine learning algorithms, neural networks, and NLP, and apply statistics for data analysis and visualization."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_11",
+    "content": "Cloud Architecture:\nI manage AWS services (EC2, RDS, S3, ECS) to build secure, scalable cloud solutions. My expertise includes cloud security and CI/CD pipelines, enhancing project deployment and management."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_12",
+    "content": "Agile:\nI use Agile methods to improve software development processes, utilizing Jira and Clickup, and Azure DevOps for project management and focusing on functional product design. | Skills\nSoftware engineering:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_13",
+    "content": "I'm a Python expert with 6+ years of experience, focusing on writing clean, efficient code for high-traffic applications. Experienced in Django, I develop scalable web apps, including real-time chat services using Django Channels and Redis,  I've got experience using Airflow to schedule and manage tasks like sending emails and SMS messages, I'm skilled in deploying apps on AWS, using technologies like Elastic Beanstalk and ECS with load balancers. My toolkit includes Celery, Docker, Redis, Selenium for testing, and front-end technologies. I also work with MySQL, Neo4J, and Git.\nAnalytics Platforms:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_14",
+    "content": "I've also enhanced my skills with Alteryx, earning three certifications: Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential, and Alteryx Designer Core Certification. This has strengthened my ability to analyze data, build models, and automate data processes.\nData Science:\nWith a solid grasp of machine learning tools (Scikit-learn, TensorFlow, Keras, PyTorch), I've deployed projects (e.g., LipSync, FaceSwapping) on AWS. I understand machine learning algorithms, neural networks, and NLP, and apply statistics for data analysis and visualization."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_15",
+    "content": "Cloud Architecture:\nI manage AWS services (EC2, RDS, S3, ECS) to build secure, scalable cloud solutions. My expertise includes cloud security and CI/CD pipelines, enhancing project deployment and management."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_16",
+    "content": "Agile:\nI use Agile methods to improve software development processes, utilizing Jira and Clickup, and Azure DevOps for project management and focusing on functional product design. | Skills\nSoftware engineering:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_17",
+    "content": "I'm a Python expert with 6+ years of experience, focusing on writing clean, efficient code for high-traffic applications. Experienced in Django, I develop scalable web apps, including real-time chat services using Django Channels and Redis,  I've got experience using Airflow to schedule and manage tasks like sending emails and SMS messages, I'm skilled in deploying apps on AWS, using technologies like Elastic Beanstalk and ECS with load balancers. My toolkit includes Celery, Docker, Redis, Selenium for testing, and front-end technologies. I also work with MySQL, Neo4J, and Git.\nAnalytics Platforms:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_18",
+    "content": "I've also enhanced my skills with Alteryx, earning three certifications: Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential, and Alteryx Designer Core Certification. This has strengthened my ability to analyze data, build models, and automate data processes.\nData Science:\nWith a solid grasp of machine learning tools (Scikit-learn, TensorFlow, Keras, PyTorch), I've deployed projects (e.g., LipSync, FaceSwapping) on AWS. I understand machine learning algorithms, neural networks, and NLP, and apply statistics for data analysis and visualization."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_19",
+    "content": "Cloud Architecture:\nI manage AWS services (EC2, RDS, S3, ECS) to build secure, scalable cloud solutions. My expertise includes cloud security and CI/CD pipelines, enhancing project deployment and management."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_20",
+    "content": "Agile:\nI use Agile methods to improve software development processes, utilizing Jira and Clickup, and Azure DevOps for project management and focusing on functional product design. | Skills\nSoftware engineering:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_21",
+    "content": "I'm a Python expert with 6+ years of experience, focusing on writing clean, efficient code for high-traffic applications. Experienced in Django, I develop scalable web apps, including real-time chat services using Django Channels and Redis,  I've got experience using Airflow to schedule and manage tasks like sending emails and SMS messages, I'm skilled in deploying apps on AWS, using technologies like Elastic Beanstalk and ECS with load balancers. My toolkit includes Celery, Docker, Redis, Selenium for testing, and front-end technologies. I also work with MySQL, Neo4J, and Git.\nAnalytics Platforms:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_22",
+    "content": "I've also enhanced my skills with Alteryx, earning three certifications: Machine Learning Fundamentals Micro-Credential, Alteryx Foundational Micro-Credential, and Alteryx Designer Core Certification. This has strengthened my ability to analyze data, build models, and automate data processes.\nData Science:\nWith a solid grasp of machine learning tools (Scikit-learn, TensorFlow, Keras, PyTorch), I've deployed projects (e.g., LipSync, FaceSwapping) on AWS. I understand machine learning algorithms, neural networks, and NLP, and apply statistics for data analysis and visualization."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_23",
+    "content": "Cloud Architecture:\nI manage AWS services (EC2, RDS, S3, ECS) to build secure, scalable cloud solutions. My expertise includes cloud security and CI/CD pipelines, enhancing project deployment and management."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_24",
+    "content": "Agile:\nI use Agile methods to improve software development processes, utilizing Jira and Clickup, and Azure DevOps for project management and focusing on functional product design.\nExperiences\nSr. Software engineer machine learning - GizaSystems [May 2023 –Present]\nMachine Learning Projects: I contributed to building automated forecasting models that predict future trends based on past data. This involved using machine learning tools and techniques to make our projects smarter and more predictive."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_25",
+    "content": "Chatbot Development: I led the development of a virtual assistant - chatbot , making it possible for users to interact with an AI avatar. This project was all about making technology more accessible and engaging for users, allowing them to get answers from the avatar in real-time. \nImproving Code Quality: I worked on updating and fixing older Django code to make it better and more efficient. This task was about making sure our software can grow and improve over time without running into problems because of outdated code."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_26",
+    "content": "Collaboration: Working together with my team, I helped integrate machine learning solutions into our projects, ensuring that we could use our technical insights to make real-world applications better.\nJr. Software Engineer - RightsHero [Aug 2022 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_27",
+    "content": "I developed web apps using Django, Flask, and Laravel, streamlined legacy code, and optimized databases for high traffic. I enhanced cloud architecture with AWS, creating microservices, automating CI/CD, and managing deployments with Elastic Beanstalk and ECS. My work included setting up mail services, handling high traffic with load balancers, and monitoring with Elasticsearch/CloudWatch. In data science, I led a digital media project, from data collection with web scraping to analysis with pandas and seaborn. I deployed predictive models using Flask, ensuring robustness and scalability.\nJr. Data scientist – SilkBytes [March 2021 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_28",
+    "content": "Created and investigated various ML models and cutting-edge models ( Lip Sync, Face Swapping, StyleGAN, and so on.)\nUsing real-time machine learning models, I built a video chat platform with Django channels and extensive features.\nDifferent cloud architectures for deployment were developed based on the model's resource requirements (CPU, GPU, Memory usage, Exec time). | Experiences\nSr. Software engineer machine learning - GizaSystems [May 2023 –Present]\nMachine Learning Projects: I contributed to building automated forecasting models that predict future trends based on past data. This involved using machine learning tools and techniques to make our projects smarter and more predictive."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_29",
+    "content": "Chatbot Development: I led the development of a virtual assistant - chatbot , making it possible for users to interact with an AI avatar. This project was all about making technology more accessible and engaging for users, allowing them to get answers from the avatar in real-time. \nImproving Code Quality: I worked on updating and fixing older Django code to make it better and more efficient. This task was about making sure our software can grow and improve over time without running into problems because of outdated code."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_30",
+    "content": "Collaboration: Working together with my team, I helped integrate machine learning solutions into our projects, ensuring that we could use our technical insights to make real-world applications better.\nJr. Software Engineer - RightsHero [Aug 2022 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_31",
+    "content": "I developed web apps using Django, Flask, and Laravel, streamlined legacy code, and optimized databases for high traffic. I enhanced cloud architecture with AWS, creating microservices, automating CI/CD, and managing deployments with Elastic Beanstalk and ECS. My work included setting up mail services, handling high traffic with load balancers, and monitoring with Elasticsearch/CloudWatch. In data science, I led a digital media project, from data collection with web scraping to analysis with pandas and seaborn. I deployed predictive models using Flask, ensuring robustness and scalability.\nJr. Data scientist – SilkBytes [March 2021 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_32",
+    "content": "Created and investigated various ML models and cutting-edge models ( Lip Sync, Face Swapping, StyleGAN, and so on.)\nUsing real-time machine learning models, I built a video chat platform with Django channels and extensive features.\nDifferent cloud architectures for deployment were developed based on the model's resource requirements (CPU, GPU, Memory usage, Exec time). | Experiences\nSr. Software engineer machine learning - GizaSystems [May 2023 –Present]\nMachine Learning Projects: I contributed to building automated forecasting models that predict future trends based on past data. This involved using machine learning tools and techniques to make our projects smarter and more predictive."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_33",
+    "content": "Chatbot Development: I led the development of a virtual assistant - chatbot , making it possible for users to interact with an AI avatar. This project was all about making technology more accessible and engaging for users, allowing them to get answers from the avatar in real-time. \nImproving Code Quality: I worked on updating and fixing older Django code to make it better and more efficient. This task was about making sure our software can grow and improve over time without running into problems because of outdated code."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_34",
+    "content": "Collaboration: Working together with my team, I helped integrate machine learning solutions into our projects, ensuring that we could use our technical insights to make real-world applications better.\nJr. Software Engineer - RightsHero [Aug 2022 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_35",
+    "content": "I developed web apps using Django, Flask, and Laravel, streamlined legacy code, and optimized databases for high traffic. I enhanced cloud architecture with AWS, creating microservices, automating CI/CD, and managing deployments with Elastic Beanstalk and ECS. My work included setting up mail services, handling high traffic with load balancers, and monitoring with Elasticsearch/CloudWatch. In data science, I led a digital media project, from data collection with web scraping to analysis with pandas and seaborn. I deployed predictive models using Flask, ensuring robustness and scalability.\nJr. Data scientist – SilkBytes [March 2021 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_36",
+    "content": "Created and investigated various ML models and cutting-edge models ( Lip Sync, Face Swapping, StyleGAN, and so on.)\nUsing real-time machine learning models, I built a video chat platform with Django channels and extensive features.\nDifferent cloud architectures for deployment were developed based on the model's resource requirements (CPU, GPU, Memory usage, Exec time). | Experiences\nSr. Software engineer machine learning - GizaSystems [May 2023 –Present]\nMachine Learning Projects: I contributed to building automated forecasting models that predict future trends based on past data. This involved using machine learning tools and techniques to make our projects smarter and more predictive."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_37",
+    "content": "Chatbot Development: I led the development of a virtual assistant - chatbot , making it possible for users to interact with an AI avatar. This project was all about making technology more accessible and engaging for users, allowing them to get answers from the avatar in real-time. \nImproving Code Quality: I worked on updating and fixing older Django code to make it better and more efficient. This task was about making sure our software can grow and improve over time without running into problems because of outdated code."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_38",
+    "content": "Collaboration: Working together with my team, I helped integrate machine learning solutions into our projects, ensuring that we could use our technical insights to make real-world applications better.\nJr. Software Engineer - RightsHero [Aug 2022 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_39",
+    "content": "I developed web apps using Django, Flask, and Laravel, streamlined legacy code, and optimized databases for high traffic. I enhanced cloud architecture with AWS, creating microservices, automating CI/CD, and managing deployments with Elastic Beanstalk and ECS. My work included setting up mail services, handling high traffic with load balancers, and monitoring with Elasticsearch/CloudWatch. In data science, I led a digital media project, from data collection with web scraping to analysis with pandas and seaborn. I deployed predictive models using Flask, ensuring robustness and scalability.\nJr. Data scientist – SilkBytes [March 2021 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_40",
+    "content": "Created and investigated various ML models and cutting-edge models ( Lip Sync, Face Swapping, StyleGAN, and so on.)\nUsing real-time machine learning models, I built a video chat platform with Django channels and extensive features.\nDifferent cloud architectures for deployment were developed based on the model's resource requirements (CPU, GPU, Memory usage, Exec time). | Experiences\nSr. Software engineer machine learning - GizaSystems [May 2023 –Present]\nMachine Learning Projects: I contributed to building automated forecasting models that predict future trends based on past data. This involved using machine learning tools and techniques to make our projects smarter and more predictive."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_41",
+    "content": "Chatbot Development: I led the development of a virtual assistant - chatbot , making it possible for users to interact with an AI avatar. This project was all about making technology more accessible and engaging for users, allowing them to get answers from the avatar in real-time. \nImproving Code Quality: I worked on updating and fixing older Django code to make it better and more efficient. This task was about making sure our software can grow and improve over time without running into problems because of outdated code."
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_42",
+    "content": "Collaboration: Working together with my team, I helped integrate machine learning solutions into our projects, ensuring that we could use our technical insights to make real-world applications better.\nJr. Software Engineer - RightsHero [Aug 2022 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_43",
+    "content": "I developed web apps using Django, Flask, and Laravel, streamlined legacy code, and optimized databases for high traffic. I enhanced cloud architecture with AWS, creating microservices, automating CI/CD, and managing deployments with Elastic Beanstalk and ECS. My work included setting up mail services, handling high traffic with load balancers, and monitoring with Elasticsearch/CloudWatch. In data science, I led a digital media project, from data collection with web scraping to analysis with pandas and seaborn. I deployed predictive models using Flask, ensuring robustness and scalability.\nJr. Data scientist – SilkBytes [March 2021 – March 2023]"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_44",
+    "content": "Created and investigated various ML models and cutting-edge models ( Lip Sync, Face Swapping, StyleGAN, and so on.)\nUsing real-time machine learning models, I built a video chat platform with Django channels and extensive features.\nDifferent cloud architectures for deployment were developed based on the model's resource requirements (CPU, GPU, Memory usage, Exec time).\nAccomplishments\nAlteryx:\nAlteryx Foundational Micro-Credential\nMachine Learning Fundamentals Micro-Credential\nAlteryx Designer Core Certification\nAdvanced Data-Analysis Nanodegree by Udacity\nIntroduction to machine learning in production by Andrew NG\nDeep Learning Specialization Andrew NG  by deeplearning.ai"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_45",
+    "content": "NLP CS224N & CNN CS231N by Stanford University.\nMaster in Microsoft Power BI Desktop and Service by Udemy.\nIntroduction to computer vision ud810 by Udacity.\n365datascience [ Probability, Statistics, Intro to Excel, Adv Excel, Adv Statistics methods]\nAWS Concepts & AWS Essentials.\nCollege grades: AI [A+], NLP [A+], CV [A-], Pattern Recognition [B] | Accomplishments\nAlteryx:\nAlteryx Foundational Micro-Credential\nMachine Learning Fundamentals Micro-Credential\nAlteryx Designer Core Certification\nAdvanced Data-Analysis Nanodegree by Udacity\nIntroduction to machine learning in production by Andrew NG\nDeep Learning Specialization Andrew NG  by deeplearning.ai"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_46",
+    "content": "NLP CS224N & CNN CS231N by Stanford University.\nMaster in Microsoft Power BI Desktop and Service by Udemy.\nIntroduction to computer vision ud810 by Udacity.\n365datascience [ Probability, Statistics, Intro to Excel, Adv Excel, Adv Statistics methods]\nAWS Concepts & AWS Essentials.\nCollege grades: AI [A+], NLP [A+], CV [A-], Pattern Recognition [B] | Accomplishments\nAlteryx:\nAlteryx Foundational Micro-Credential\nMachine Learning Fundamentals Micro-Credential\nAlteryx Designer Core Certification\nAdvanced Data-Analysis Nanodegree by Udacity\nIntroduction to machine learning in production by Andrew NG\nDeep Learning Specialization Andrew NG  by deeplearning.ai"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_47",
+    "content": "NLP CS224N & CNN CS231N by Stanford University.\nMaster in Microsoft Power BI Desktop and Service by Udemy.\nIntroduction to computer vision ud810 by Udacity.\n365datascience [ Probability, Statistics, Intro to Excel, Adv Excel, Adv Statistics methods]\nAWS Concepts & AWS Essentials.\nCollege grades: AI [A+], NLP [A+], CV [A-], Pattern Recognition [B] | Accomplishments\nAlteryx:\nAlteryx Foundational Micro-Credential\nMachine Learning Fundamentals Micro-Credential\nAlteryx Designer Core Certification\nAdvanced Data-Analysis Nanodegree by Udacity\nIntroduction to machine learning in production by Andrew NG\nDeep Learning Specialization Andrew NG  by deeplearning.ai"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_48",
+    "content": "NLP CS224N & CNN CS231N by Stanford University.\nMaster in Microsoft Power BI Desktop and Service by Udemy.\nIntroduction to computer vision ud810 by Udacity.\n365datascience [ Probability, Statistics, Intro to Excel, Adv Excel, Adv Statistics methods]\nAWS Concepts & AWS Essentials.\nCollege grades: AI [A+], NLP [A+], CV [A-], Pattern Recognition [B] | Accomplishments\nAlteryx:\nAlteryx Foundational Micro-Credential\nMachine Learning Fundamentals Micro-Credential\nAlteryx Designer Core Certification\nAdvanced Data-Analysis Nanodegree by Udacity\nIntroduction to machine learning in production by Andrew NG\nDeep Learning Specialization Andrew NG  by deeplearning.ai"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_49",
+    "content": "NLP CS224N & CNN CS231N by Stanford University.\nMaster in Microsoft Power BI Desktop and Service by Udemy.\nIntroduction to computer vision ud810 by Udacity.\n365datascience [ Probability, Statistics, Intro to Excel, Adv Excel, Adv Statistics methods]\nAWS Concepts & AWS Essentials.\nCollege grades: AI [A+], NLP [A+], CV [A-], Pattern Recognition [B]\nAchievements\nUndergraduate Research Assistant\nInvolved in NADI Shared Task competition and scored the 5th placement, also published a paper “Arabic Dialect Identification Using BERT Fine-Tuning”\nGraduation project:\nVR Game (Escape Room) Using Unity3D and Machine Learning (Participated in the NLP \"Questions and Answers\" using BERT) | Achievements"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_50",
+    "content": "Undergraduate Research Assistant\nInvolved in NADI Shared Task competition and scored the 5th placement, also published a paper “Arabic Dialect Identification Using BERT Fine-Tuning”\nGraduation project:\nVR Game (Escape Room) Using Unity3D and Machine Learning (Participated in the NLP \"Questions and Answers\" using BERT) | Achievements\nUndergraduate Research Assistant\nInvolved in NADI Shared Task competition and scored the 5th placement, also published a paper “Arabic Dialect Identification Using BERT Fine-Tuning”\nGraduation project:\nVR Game (Escape Room) Using Unity3D and Machine Learning (Participated in the NLP \"Questions and Answers\" using BERT) | Achievements"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_51",
+    "content": "Undergraduate Research Assistant\nInvolved in NADI Shared Task competition and scored the 5th placement, also published a paper “Arabic Dialect Identification Using BERT Fine-Tuning”\nGraduation project:\nVR Game (Escape Room) Using Unity3D and Machine Learning (Participated in the NLP \"Questions and Answers\" using BERT) | Achievements\nUndergraduate Research Assistant\nInvolved in NADI Shared Task competition and scored the 5th placement, also published a paper “Arabic Dialect Identification Using BERT Fine-Tuning”\nGraduation project:\nVR Game (Escape Room) Using Unity3D and Machine Learning (Participated in the NLP \"Questions and Answers\" using BERT)\nLanguages\nArabic: Native.\nEnglish:"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_52",
+    "content": "English:\nReading: Full professional proficiency\nWriting: Full professional proficiency\nSpeaking: Professional working proficiency | Languages\nArabic: Native.\nEnglish:\nReading: Full professional proficiency\nWriting: Full professional proficiency\nSpeaking: Professional working proficiency | Languages\nArabic: Native.\nEnglish:\nReading: Full professional proficiency\nWriting: Full professional proficiency\nSpeaking: Professional working proficiency | Languages\nArabic: Native.\nEnglish:\nReading: Full professional proficiency\nWriting: Full professional proficiency\nSpeaking: Professional working proficiency | Languages\nArabic: Native.\nEnglish:\nReading: Full professional proficiency"
+  },
+  {
+    "original_file": "MoatazMansour",
+    "chunk_id": "MoatazMansour_chunk_53",
+    "content": "Writing: Full professional proficiency\nSpeaking: Professional working proficiency"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_0",
+    "content": "Omar Hamed Marei\nRiyadh, Saudi Arabia | (+966) 505905312 | (+20) 109 038 3142\nomarhamed440@gmail.com | Github LinkedIn\nCareer Summary\nSoftware Engineer - Machine Learning\n• Software engineer with 3+ years of experience in machine learning, data science, and full-stack development, specializing\nin building scalable software solutions that that integrate machine learning as micro-services.\nAreas of Expertise\n• Software Engineering • Machine Learning • Front-end development\n• UI / UX Design • Data Science • Backend Development\n• Cloud Services • Data Analysis • Big Data Engineering\nWork Experience\nSoftware Engineer Machine Learning - Giza Systems September 2022 - Present\nResponsibilities:"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_1",
+    "content": "Responsibilities:\n• Designed and implemented low-level software designs, ensuring high-quality code with OOP and design patterns.\n• Built and deployed end-to-end ML pipelines and ML-as-a-Service applications for advanced analytics.\n• Developed real-time forecasting models for time-series data in smart industrial cities.\n• Created technical design documents for SW-ML projects, including low-level designs for complex components.\n• Contributed to technical proposals and business opportunities through write-ups and presentations.\n• Collaborated with data scientists and engineers to deliver seamless integration between ML pipelines, software\napplications, and data visualization dashboards."
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_2",
+    "content": "Key Projects:\n1.MODON Smart Industrial Cities in KSA\n•Role: Software Engineer - Machine Learning Engineer\n•Technologies: Django, Python, RESTful APIs, Clustering Algorithms, Azure DevOps, pySpark, Kafka\n•Built advanced analytics models focusing on clustering techniques for time-series data analysis.\n2.IDP-ML Advanced Analytics Platform (SW Product)\n•Role: Software Engineer - Machine Learning\n•Technologies: Django, Python, Apache Airflow, Kafka, Sklearn, pySpark, GraphQL, Azure DevOps\n•Designed and implemented supervised and unsupervised ML jobs, developing microservices for ML inference and\ntraining pipelines. Used Airflow for scheduling and workflow automation."
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_3",
+    "content": "3.MEWA (Ministry of Environment, Water, and Agriculture In KSA)\n•Role: BI Developer\n•Technologies: Kibana, Power BI\n•Created dashboards for two projects in Saudi Arabia, focusing on water management and drilling operations.\n4.ELK Stack Implementation: Confidential Client in KSA:\n•Role: Data Engineer & Software Engineer\n•Technologies: ELK Stack (Elasticsearch, Logstash, Kibana, Beats)\n•Implemented data flow mechanisms for observability, including system monitoring, API monitoring, audit trail\nlogs, and security logs. Developed endpoints for a global advanced search engine.\n5.POCs & Miscellaneous Projects"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_4",
+    "content": "•Virtual Assistant: Led and Built an AI-powered assistant using React, Django, Wav2Lip, and SpeechRecognition.\n•Digital Twin: Development of 3D modeling tools for creating assets and floorplans.\n•AutoEvaluation Dashboard: Designed interactive visualizations using Plotly For AutoEval Paper.\n•AutoML Dashboards: Developed front-end solutions using Plotly for AutoML Paper.\nSoftware Engineer - WE Work Group March 2021 - August 2021\nResponsibilities:\n• Collaborated with clients through business meetings to gather and refine project requirements.\n• Designed and implemented UI/UX prototypes to streamline requirement gathering, reducing design iteration cycles."
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_5",
+    "content": "• Developed and optimized frontend interfaces for multiple projects in KSA, focusing on usability and responsiveness.\nEducation\nPost-Graduate Diploma in AI and Machine Learning\nInformation Technology Institute (ITI), Smart-Village, Giza • October 2021–July 2022\nBachelor in Computer Science (BCS) - Minor in Software Engineering\nFaculty of Computers and Information Technology, Kafr El-Sheikh University, Egypt • October 2017-June 2021\nSkills\nProgramming Languages: DevOps & Cloud:\n• Python, JavaScript, Java, C, C++, Bash • Docker, AWS, Azure DevOps, Azure Repos, Git,\nGitHub, Jenkins, Linux (Redhat, Ubuntu)\nMachine Learning & Data Science:"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_6",
+    "content": "• TensorFlow, Keras, Sklearn, PySpark, SparkML, Backend Development:\nAWS SageMaker, MLflow, AutoML, Alteryx, • Django, Flask, Node.js, RESTful APIs, GraphQL,\nSupervised/Unsupervised Algorithms, Numerical MySQL, PostgreSQL, Redis, Swagger, Postman\nOptimization, Computer Vision\nFront-end & UI/UX:\nData Engineering: • React.js, Angular, SCSS, Bootstrap, Material UI,\n• SQL, NoSQL (MongoDB, Redis), Apache Kafka, Figma, Adobe XD\nApache NIFI, Apache Spark, Apache Airflow, ELK\nStack (ElasticSearch, LogStash, Kibana, Beats), Business Intelligence & Data Visualization:\nETL processes, Star Schema • Power BI, Kibana, Dash (Plotly), Seaborn\nSelected Certifications"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_7",
+    "content": "Microsoft Power BI Data Analyst Certified AWS Machine Learning Engineer Nano-degree\nMicrosoft • 2023 Udacity • 2022\nData Scientist With Python Track React Nano-degree\nDatacamp • 2022 Udacity • 2021\nMachine Leaning Specialization\nCoursera • 2023\nSelected Projects\n•\nVirtual Assistant - (Django, React, Wav2Lip, Speech Recognition) 2023\n•Developed a React-based frontend for a voice-interactive virtual assistant, integrating Wav2Lip for realistic lip\nsynchronization and speech-to-text solutions.\n•Led ITI team members to enable real-time question-and-answer interactions, enhancing user experience through\nadvanced speech processing capabilities."
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_8",
+    "content": "Automatic Number Plate Recognition (ANPR) - (Object Detection, OCR, Flask, JavaScript) • 2022\n• Implemented an OCR algorithm to accurately detect and read license plates, achieving high precision across varied\nlighting conditions.\n• Led the development of a seamless and responsive user interface for real-time interactions using Flask and\nJavaScript.\nHead Pose Estimation - (Mediapipe, sklearn) • 2022\n•Built a machine learning pipeline to estimate yaw, pitch, and roll angles from 68 facial key points using Mediapipe\nfor feature extraction and sklearn-based regression models.\nWuzzuf Jobs Data Analysis - (Java SpringBoot, Javascript, Data Analysis Dashboard) • 2021"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_9",
+    "content": "•Developed a web service to analyze job market data, providing interactive visualizations for insights into popular\ncompanies, job titles, and locations.\nGlaucoma and Cataract Detection using Deep Learning (Deep learning, Flask, React, Stripe, Heroku) • 2021\n•Designed and trained a cutting-edge deep learning model for glaucoma and cataract detection, achieving 98%\naccuracy on unseen data.\n•Integrated the model into an API, enabling seamless deployment as a Machine Learning-as-a-Service (MLaaS) within\na web application.\nReal-time Chat App - (Socket.IO, NodeJS, React) • 2020\n• Built a real-time chat application with Socket.IO for instant messaging, utilizing ReactJS for a dynamic and"
+  },
+  {
+    "original_file": "OmarMarie",
+    "chunk_id": "OmarMarie_chunk_10",
+    "content": "interactive user interface.\nCampgrounds Web Application - (NodeJs, Javascript, ExpressJs, PassportJs,MongoDB) • 2019\n• Developed a platform for users to browse, review, and book campgrounds, integrating MongoDB for data persistence.\nE-Commerce Web Application - (Django, Javascript, Bootstrap) • 2018\n• Designed and implemented an e-commerce platform, developing the frontend using HTML, CSS, and JavaScript, and\nintegrating it with Django and SQLite for backend operations.\n• Focused on delivering a seamless shopping experience with an intuitive interface and robust database handling.\nLanguages\n• Arabic – Native • English - Professional"
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_0",
+    "content": "Osama Fayez Oun\nCairo, Egypt Osama Fayez Military state: Completed\nosamaoun997@gmail.com Osama Fayez\n+2 0106 7638 803 Osamaoun97\nEDUCATION\nFaculty of Graduate Studies for Statistical Research Cairo University\nM.Sc. in Data Science student Feb 2024 – Present\nInformation Technology Institute (ITI)\nMansoura Branch\n9-Months Professional Diploma – AI & ML Engineering Track Oct 2022 – July 2023\n• Graduation project: Arabic Voice Interface for City Operation Centre – Giza Systems\n- Arabic & English virtual assistant using Rasa Chat Bot and Lip-Sync using Wav2lip.\n- Speech services from Google and Azure were used, and integration was done using\nthe Django framework."
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_1",
+    "content": "Faculty of Petroleum and Mining Engineering Suez University\nBachelor of Metallurgical and Materials Engineering Sep 2015 – Jun 2020\n• Grade: Very good\nPROFESSIONAL EXPERIENCE\nSoftware engineer - Machine learning at Giza Systems April 2024 - Present\n• Processing, cleansing, and verifying data integrity used for analysis.\n• Selecting features, building, and optimizing pipelines using ML techniques.\n• Developing and reviewing low-level software designs, ensuring adherence to coding standards\nand architectural principles.\n• Writing automated build, execution, and deployment scripts for software artifacts.\n• Contribution:"
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_2",
+    "content": "• Contribution:\n- Lecturing: Gave lectures for the Headway program (internship) in ML, NLP, Math, and Data\nPreparation.\n- FahimBot: RAG project to retrieve precise answers from a large document database.\n- Fed Forecaster: Implemented a novel AutoML technique for optimized model training in a\nfederated learning context.\n- GNN POC: Applied graph neural networks to predict time series data.\nData Scientist at Banque Misr Aug 2023 – April 2024\n• Collaborating within cross-functional Agile teams to drive end-to-end data projects.\n• Developing statistical models and ML algorithms to solve complex business problems.\n• Contribution:"
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_3",
+    "content": "• Contribution:\n- Early warning system: outlines credit strategies for customers based on risk level to\nenhance risk management practices.\n- Customer 360: A comprehensive view of customer data across all bank domains\n- Behavioural segmentation: categorizes customers based on demographics or behavior to\nenable targeted marketing and personalized services.\nInstructor at Information Technology Institute (ITI) Nov 2023 - Part-time\n• Giving lectures for AI & ML track\nMarketing Research Specialist at Elmarakby Steel Mar 2022 – Oct 2022\n• Market research and data collection are used to feed the analysis process."
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_4",
+    "content": "• Reporting and visualization through building interactive dashboards and presentations.\nPROJECTS\nForecasting Sales for Rossmann Stores (Time Series) Jun 2023\n• EDA and forecasting using Simple methods, TS, and ML models.\n• MSTL, Arima, SARIMAX, FB Prophet, LGBM.\nNeural Style Transfer (CV) May 2023\n• Implementation of neural style transfer using TensorFlow on VGG19 model.\nArabic dialect classification (NLP) May 2023\n• Appling word embedding, ML, and DL algorithms including Transformers like AraBert.\nSegmentation of lungs MR-images using U-NET (CV) May 2023\n• Implementation of U-net and segmentation with 98% IOU score.\nChest X-ray Classification and CNN layers Visualization (CV) May 2023"
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_5",
+    "content": "• Fine-tuning Xception model and applying GradCAM to Investigate Network Predictions.\nNetflix Dashboard (Data analysis) Apr 2023\n• Data pre-processing and creating an Interactive dashboard using Plotly and Dash\nCOMPETITIONS\nAqueous Solubility Prediction ITI AI track competition 2\n1st place out of 13 teams. May 2023\nDiabetes Readmission Prediction ITI AI track competition 1\n1st place out of 20 teams. Mar 2023\nCOURSES\n- ML for Production (MLOps) specialization - Deeplearning.ai (4 courses) Jul 2023\n- Math for ML & DS specialization - Deeplearning.ai (3 courses) Jun 2023\n- Deep Learning specialization - Deeplearning.ai (5 courses) Apr 2023"
+  },
+  {
+    "original_file": "OsamaFayez",
+    "chunk_id": "OsamaFayez_chunk_6",
+    "content": "- Applied Data Science Lab - WorldQuant University (8 projects) Mar 2023\n- Machine Learning specialization - Deeplearning.ai (3 courses) Feb 2023\n- Python Fundamentals Track - Datacamp (4 courses) Jul 2022\n- SQL Fundamentals Track - Datacamp (5 courses) May 2022\nSKILLS\n• Programming Languages Python, C, C++\n• libraries TensorFlow, Pytorch, Numpy, Sklearn, Pandas, Matplotlib, Seaborn, Plotly, Transformers, LangChain\n• Tools and technologies Fast API, SQL, Power BI, Pyspark, Linux, Git, Docker, Django, Airflow, NIFI, Redis, MinIO\n• Soft Skills Leadership, Negotiation, Communication, Presentation\n• Languages Native in Arabic, very good in English"
+  },
+  {
+    "original_file": "RohandaHamed",
+    "chunk_id": "RohandaHamed_chunk_0",
+    "content": "Rohanda Hamed\nAddress :18, Mohamed Yaqout Attya Street, Sporting, Alexandria,Egypt (ready to relocate)\nEmail: rohanda.hamed24@gmail.com\nPhone: +2 0100 964 46 55\nLinkedin: https://www.linkedin.com/in/rohanda-hamed- a1ab6873\nKaggle : https://www.kaggle.com/ro101010/\nGithub : https://github.com/Rohanda\n Work Experience\n  Giza Systems, Cairo, Egypt\n  Software Engineer - ML\t\t\t\t\t\t                         January 2022 - present\nUsing Apache Spark in ETL and building ML models.\nApplying unsupervised learning algorithms in data analysis.\nUsing MLOPS tools to track and version artifacts during models training.\nBuilding dashboards to visualize models’ predictions.\nMashreq Arabia, Alexandria, Egypt"
+  },
+  {
+    "original_file": "RohandaHamed",
+    "chunk_id": "RohandaHamed_chunk_1",
+    "content": "Python software developer                                                                          July 2020 – March 2021\nCreated an inventory management system “3alababak” using Django Restful\nCreated an E-invoicing system in Django “BooksM8”\nContributed in building HR management system “PeopleM8” using Django\nUsed HTML ,CSS and JavaScript to create templates to fit clients’ needs\nICT CUBE, Maadi - Cairo, Egypt\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t           September 2018 – May 2019\nJunior software developer\nWorked on creating a test automation framework.\nLearned to use Docker, Django and git.\nLearned to write unit tests in python and to ensure high code coverage."
+  },
+  {
+    "original_file": "RohandaHamed",
+    "chunk_id": "RohandaHamed_chunk_2",
+    "content": "Gained experience in dealing with SQl and no SQL database such as Elasticsearch.\nEducation\nInformation Technology Institute (ITI) - Ministry of Communications and Information Technology (MCIT)\n9-month Diploma in Artificial Intelligence Professional track (AI Pro)\nUniversity of Science and Technology at Zewail City, Giza, Egypt\nBachelor of Communication and Information Engineering\nCapstone Project Scope: Lane keeping for autonomous vehicles using Deep learning on ROS.\nGPA: 3.67\nApril 2021 – January 2022\n         2013 - 2018\nProfessional Certificates\nData Scientist Track - DataCamp\nAdvanced Web Development - Udacity\n  2021\n2020\nTechnical Tasks\nAnalyze and predict Dry Beans dataset| Kaggle"
+  },
+  {
+    "original_file": "RohandaHamed",
+    "chunk_id": "RohandaHamed_chunk_3",
+    "content": "Applied skills: data analysis - data visualization - machine learning algorithms\nImplement Gradient Descent from scratch | ITI\nApplied skills: Python - NumPy - Linear Algebra - Sklearn - Numerical Algorithms\nImplement machine learning algorithms from scratch | ITI\nApplied skills: Dbscan - K-means - Gaussian Mixture Model (GMM)\nCreate Rest API using Spring | ITI\nApplied skills: Smile library - Rest API - Thymleaf library - Spring\nImplement state-of-the art deep Neural Networks | Coursera\nApplied skills: ResNet, Mobile-Net, VGG\nTechnical Skills\nProgramming Languages\tFramework\nPython Java\nDjango Spring\nVersion Control and Automation build\tDatabase\nGitHub Bitbucket Docker"
+  },
+  {
+    "original_file": "RohandaHamed",
+    "chunk_id": "RohandaHamed_chunk_4",
+    "content": "Postgres MongoDB SQL - No SQL\nMachine Learning Algorithms\tLibraries and Packages\nLinear Regression- Logistic Regression - Support Vector Machine (SVM) - Decision Tree - Random Forest- K- means Dbscan - Naive Bayes - Guassian Mixture Model - Deep learning\nScikit-Learn - SciPy - Matplotlib - Pandas - NumPy - Seaborn - Jupyter Notebook - Orange - Pyspark\nDash \n  Language Skills\nArabic as mother tongue\nCertified B2 level in French\nVery good level in English (ILETS : 7.5)"
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_0",
+    "content": "Youssef Medhat\nSW Engineer – Machine Learning \nPassionate software researcher with a strong knowledge in a wide range of development languages. Critical thinker and a quick\nlearner seeking opportunities to gain practical experience and knowledge in innovative and challenging fast-paced environments\nWork History\nSW Engineer – Machine Learning Intern\t Aug 2023 to Feb 2024 Giza Systems\nReduced execution time by 50% for virtual assistant using optimized processes through memory and finetuning. This resulted in smoother user interactions and faster response times."
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_1",
+    "content": "Researched for best state of art lip-syncing models and integrated one that was suitable for our use case which increased perceived naturalness by 20%.\nIncreased chatbot F1-Score by 10% through dataset augmentation and finetuning, leading to more accurate responses and improved user satisfaction.\nFrontend Angular Developer                               May 2023 to Aug 2023\t Rubix Marketing Solutions"
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_2",
+    "content": "I was one of the lead developers on a dynamic web application project using Angular. I translated design mockup and wireframes into responsive web page, collaborated with backend developers to ensure seamless integration and Implemented reusable UI elements with Angular Components and directives.\nData Science Intern                                      Jul 2021 to Sep 2021    Egyptian Space Agency\nThe student training program in the Egyptian Space Agency allowed me to analyze telemetry data received from satellites and apply various machine learning techniques to accurately predict the data in the future.\nBackend Developer Intern                           Jul 2019 to Sep 2019\t OC Studios"
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_3",
+    "content": "OC studios provides services for BIM, Architectural Visualization & Software Development. I worked on several backend applications using .Net, C# & MVC.\n                                                         Education\nB.S. in Computer Science, Helwan University, Class of 2022            \n                                                                       GPA: 3.28                                                 Major: Computer Science\nMinor: Information Systems\t                   Military Status: Exempted\nHighlighted Academic Projects:\nSkin Cancer Multiclassification using Deep Learning & Ensemble Learning Techniques (Graduation Project, Grade: A+)"
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_4",
+    "content": "AWS Image Classification using Sagemaker\nBuild A ML Workflow for Scones Unlimited on Amazon Sagemaker \nFCC – Satellite Received Telemetry Data Module\nCertifications"
+  },
+  {
+    "original_file": "YoussefMedhat",
+    "chunk_id": "YoussefMedhat_chunk_5",
+    "content": "Udacity AWS Machine Learning Engineer Nanodegree       2023-01 to 2023-05\n\nUdacity Advanced Cloud DevOps Nanodegree                   2022-02 to 2022-05\n\nUdacity Advanced Data Analysis Nanodegree                 2021-07 to 2021-10\n\nIBM Cloud Application Developer                                        2020-08 to 2020-09"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_0",
+    "content": "Esraa\nSayed | Esraa\nSayed | Giza, Egypt | esraa.sayed.mustafa@gmail.com \n+201142211792 | in/esraa-sayed98"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_1",
+    "content": "Highly skilled Machine Learning Software Developer with experience in creating, designing, and developing AI-based software applications. In-depth understanding of machine learning and deep learning concepts, hands-on experience in data analysis, visualization, supervised and un-supervised learning, computer vision, and natural language processing. Proficient in programming with Python, C and Java, experienced in working with web frameworks like Django and big data frameworks like Spark. Able to build efficient and robust software, develop and implement ML models using libraries like Scikit-Learn, TensorFlow. Strong analytical and problem-solving skills"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_2",
+    "content": ". Constantly learning to polish existing skills and learn new ones, with a strong passion for staying up to date with the latest advancements in AI and ML. Proactive and effective verbal communicator, who is a good team player, committed to delivering software solutions that drive business results. | Highly skilled Machine Learning Software Developer with experience in creating, designing, and developing AI-based software applications. In-depth understanding of machine learning and deep learning concepts, hands-on experience in data analysis, visualization, supervised and un-supervised learning, computer vision, and natural language processing"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_3",
+    "content": ". Proficient in programming with Python, C and Java, experienced in working with web frameworks like Django and big data frameworks like Spark. Able to build efficient and robust software, develop and implement ML models using libraries like Scikit-Learn, TensorFlow. Strong analytical and problem-solving skills. Constantly learning to polish existing skills and learn new ones, with a strong passion for staying up to date with the latest advancements in AI and ML. Proactive and effective verbal communicator, who is a good team player, committed to delivering software solutions that drive business results"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_4",
+    "content": ". | Highly skilled Machine Learning Software Developer with experience in creating, designing, and developing AI-based software applications. In-depth understanding of machine learning and deep learning concepts, hands-on experience in data analysis, visualization, supervised and un-supervised learning, computer vision, and natural language processing. Proficient in programming with Python, C and Java, experienced in working with web frameworks like Django and big data frameworks like Spark. Able to build efficient and robust software, develop and implement ML models using libraries like Scikit-Learn, TensorFlow. Strong analytical and problem-solving skills"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_5",
+    "content": ". Constantly learning to polish existing skills and learn new ones, with a strong passion for staying up to date with the latest advancements in AI and ML. Proactive and effective verbal communicator, who is a good team player, committed to delivering software solutions that drive business results."
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_6",
+    "content": "Giza Systems\nMachine Learning Software Developer | Sep 2022 – PRESENT\nLeading R&D project to create AutoML Engine for time series forecasting.\nParticipating in the development of an Advanced Analytics product leveraging Machine Learning techniques for real-time forecasting and clustering of time series data sourced from smart industrial cities.\nDevelop and review software application code, ensuring adherence to coding standards and architectural principles. Apply software engineering principles and methods, including object-oriented programming (OOP), to implement ML solutions. | Giza Systems\nMachine Learning Software Developer | Sep 2022 – PRESENT"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_7",
+    "content": "Leading R&D project to create AutoML Engine for time series forecasting.\nParticipating in the development of an Advanced Analytics product leveraging Machine Learning techniques for real-time forecasting and clustering of time series data sourced from smart industrial cities.\nDevelop and review software application code, ensuring adherence to coding standards and architectural principles. Apply software engineering principles and methods, including object-oriented programming (OOP), to implement ML solutions. | Giza Systems\nMachine Learning Software Developer | Sep 2022 – PRESENT\nLeading R&D project to create AutoML Engine for time series forecasting."
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_8",
+    "content": "Participating in the development of an Advanced Analytics product leveraging Machine Learning techniques for real-time forecasting and clustering of time series data sourced from smart industrial cities.\nDevelop and review software application code, ensuring adherence to coding standards and architectural principles. Apply software engineering principles and methods, including object-oriented programming (OOP), to implement ML solutions.\n9-Month Professional Postgraduate Diploma, AI and ML track\nInformation Technology Institute | Nov 2021 – Aug 2022"
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_9",
+    "content": "A 9-month post-graduate professional training program in Machine Learning and Artificial Intelligence, developed in partnership with the French EPITA School of Engineering and Computer Science.\n\nB.Sc. in Systems and Biomedical Engineering \nFaculty of engineering, Cairo university | Sep 2016 – Jun 2021\nGraduated with Distinctive accumulative degree with honor, GPA (3.89) | 9-Month Professional Postgraduate Diploma, AI and ML track\nInformation Technology Institute | Nov 2021 – Aug 2022\n\nA 9-month post-graduate professional training program in Machine Learning and Artificial Intelligence, developed in partnership with the French EPITA School of Engineering and Computer Science."
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_10",
+    "content": "B.Sc. in Systems and Biomedical Engineering \nFaculty of engineering, Cairo university | Sep 2016 – Jun 2021\nGraduated with Distinctive accumulative degree with honor, GPA (3.89) | 9-Month Professional Postgraduate Diploma, AI and ML track\nInformation Technology Institute | Nov 2021 – Aug 2022\n\nA 9-month post-graduate professional training program in Machine Learning and Artificial Intelligence, developed in partnership with the French EPITA School of Engineering and Computer Science."
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_11",
+    "content": "B.Sc. in Systems and Biomedical Engineering \nFaculty of engineering, Cairo university | Sep 2016 – Jun 2021\nGraduated with Distinctive accumulative degree with honor, GPA (3.89)\nCertifications | Certifications | Certifications\nTeradata Vantage Data Science Certification | Dec 2023 | Teradata Vantage Data Science Certification | Dec 2023 | Teradata Vantage Data Science Certification | Dec 2023\nProgramming Languages: C, Python, Java, MySQL\nData Management and Workflow: Apache Kafka, Apache AirFlow, MLFlow\nMachine Learning: Scikit-Learn, Spark ML, Auto-sklearn\nBig Data Systems: Apache Spark\nVersion Control: GitHub | Python Libraries: NumPy, Pandas, Scikit-Learn, Dash Plotly."
+  },
+  {
+    "original_file": "EsraaSayed",
+    "chunk_id": "EsraaSayed_chunk_12",
+    "content": "Web Development and Application Frameworks: Django Framework, Django RESTful\nContainerization and Programming: Docker, Object-Oriented Programming (OOP)\nPersonal Skills: Diligent worker, Organized, Team worker. | Python Libraries: NumPy, Pandas, Scikit-Learn, Dash Plotly.\nWeb Development and Application Frameworks: Django Framework, Django RESTful\nContainerization and Programming: Docker, Object-Oriented Programming (OOP)\nPersonal Skills: Diligent worker, Organized, Team worker."
+  }
+]

@@ -1,0 +1,10 @@
+# Ignore virtual environment
+chatbot/
+
+# Ignore local data
+CVs/
+Experiments/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

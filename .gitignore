@@ -1,1 +1,3 @@
-CVs/
+__pycache__
+/chatbot
+/CVs
