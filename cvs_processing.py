@@ -1,6 +1,4 @@
 from files_reader_chunker import DocumentProcessor
-import json
-from datetime import datetime
 from vector_database import PineconeDB
 
 input_folder = "CVs"

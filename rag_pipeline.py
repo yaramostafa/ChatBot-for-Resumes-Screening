@@ -10,7 +10,7 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 
 class RAG:
-    def __init__(self, pc_index="rag-cvs-cleaned", embed_model="BAAI/bge-large-en-v1.5",
+    def __init__(self, pc_index="rag-cvs-named", embed_model="BAAI/bge-large-en-v1.5",
                  llm_model='llama3-70b-8192'):
         
         # Initialize embedding model
