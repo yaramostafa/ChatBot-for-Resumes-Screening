@@ -1,6 +1,6 @@
 ## 🏗 Our System Architecture
 
-![image](https://github.com/user-attachments/assets/605ed59f-1fbc-49bf-9a83-dbd46b2e938a)
+![image](https://github.com/user-attachments/assets/9a4e5a20-da67-4baa-b317-941b14675bb9)
 
 ![image](https://github.com/user-attachments/assets/e4ad7af2-e064-4f19-8923-d99344e3b63b)
 
