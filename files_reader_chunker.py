@@ -10,8 +10,8 @@ class DocumentProcessor:
     def __init__(
         self,
         min_chunk_size = 100,
-        max_chunk_size = 700,
-        chunk_overlap = 20,
+        max_chunk_size = 1000,
+        chunk_overlap = 50,
     ):
         # Setup logging
         logging.basicConfig(
