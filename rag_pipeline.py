@@ -3,7 +3,7 @@ from langchain_pinecone import Pinecone
 from langchain_groq import ChatGroq
 from langchain.chains import ConversationalRetrievalChain
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.memory import ConversationSummaryBufferMemory
+from langchain.memory import ConversationBufferWindowMemory
 from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
 PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
@@ -12,6 +12,7 @@ GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 class RAG:
     def __init__(self, pc_index="rag-cvs", embed_model="BAAI/bge-large-en-v1.5",
                  llm_model='llama3-70b-8192'):
+        
         # Initialize embedding model
         self.embed_model = HuggingFaceEmbeddings(model_name=embed_model)
 
@@ -31,53 +32,40 @@ class RAG:
         )
 
         # Initialize improved memory with summary buffer
-        self.mem_buff = ConversationSummaryBufferMemory(
-            llm=self.llm,
+        self.mem_buff = ConversationBufferWindowMemory(
             memory_key='chat_history',
             return_messages=True,
-            max_token_limit=2000,  # Adjust this based on your needs
-            ai_prefix="Assistant",
-            human_prefix="Human",
-            summary_max_tokens=500  # Maximum length of summary
+            k=6  # Adjust this to the number of turns you want to keep
         )
 
-        self.qa_creation()
 
-    def qa_creation(self):
+        self.llm_chain_creation()
+
+    def llm_chain_creation(self):
         """
-        Function to create the QA chain with the prompts
+        Function to create the llm chain with the prompts
         """
         system_template = """
-        You are an HR assistant for CV matching. Use ONLY context information provided below.
-
-        MAIN RULES:
-            1. Use ONLY the provided context.
-            2. If no relevant candidates match, respond with: 
-            'No candidates found. Please refine the job description or required skills.'
-            3. If a candidate is missing some requirements but is still relevant, mention the gaps in the response. 
-            For example, 'This candidate does not meet all of the listed skills but is highly relevant based on their experience in X.'
-            4. If multiple candidates match, rank them based on relevance, from the most relevant to the least relevant.
-            5. DO NOT infer or create information beyond the given context. 
-
-        FOR CANDIDATE RECOMMENDATIONS:
-        1. Format response as:
-        - Candidate Full Name
-        - Skills
-        - Analysis: Match reasoning
-
-        FOR SPECIFIC CANDIDATE QUERIES:
-        1. Include:
-        - Candidate name
-        - Requested details (experience/skills/roles)
-        - Only provided information
-
-        IF NO MATCHES:
-        - Reply: "No candidates found with these skills. Please provide more skills or a better description."
-        - OR ask clarifying questions
-
+        You are an HR assistant specialized in job matching. 
+        1- Given a job description with requirements(skills, experience.etc) you should recommend the candidates
+        2- You should give scores to the candidate and tell what makes them better than the others.
+        3- DON'T INFER ANSWERS, Use ONLY the provided context and prior conversation history.
+        4- If asked follow-up questions about previously mentioned candidates, refer to the conversation history before retrieving new information.
+        5- If asked for a full CV of a canidiate retrieve all the data of the candidate with details
+        6- If asked for other candidates refer to the chat history to make sure not to recommend the same candidates twice
+        7 - If no relevant candidates are found, respond with:
+        'No candidates found with these skills. Please provide more skills or a better description.'
+        NOTE : DO NOT MAKE UP OR INFER INFORMATION THAT IS NOT EXPLICITLY STATED IN THE DOCUMENTS, CONTEXT OR CHAT HISTORY.
         Context:
         {context}
+        Your response should include:
+        1- the score of the candidate
+        2- Candidate full name
+        3- their values 
+        4- Analysis on why you see the candidate is fit for the position
+        If multiple candidates are found, list them in order of relevance.
         """
+
         messages = [
             SystemMessagePromptTemplate.from_template(system_template),
             HumanMessagePromptTemplate.from_template("{question}")
@@ -85,19 +73,18 @@ class RAG:
 
         chat_prompt = ChatPromptTemplate.from_messages(messages)
 
-        # Initialize QA chain with configured retriever
-        self.qa = ConversationalRetrievalChain.from_llm(
+        self.llm_chain = ConversationalRetrievalChain.from_llm(
             llm=self.llm,
             retriever=self.vector_db.as_retriever(
                 search_type="mmr",
                 search_kwargs={
-                    "k": 50,
+                    "k": 30,
                     "lambda_mult": 0.5
-                    }  
+                }
             ),
             memory=self.mem_buff,
             combine_docs_chain_kwargs={"prompt": chat_prompt},
-            verbose=True
+            verbose=True,
         )
 
     def check_db_content(self, query):
@@ -125,9 +112,8 @@ class RAG:
             return "No candidates found with these skills. Please provide more skills or a better description."
         
         print("\nGenerating response...")
-        response = self.qa({"question": text})
+        response = self.llm_chain({"question": text})
         return response["answer"]
-
 
 rag = RAG()
 
