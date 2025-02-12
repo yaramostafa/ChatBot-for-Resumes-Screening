@@ -12,6 +12,7 @@
 - Interactive chat interface
   
 ## 📁 Project Structure
+```
   cv-matching-assistant/
   ├── app.py                  # Main Streamlit application
   ├── files_reader_chunker.py # Document processing and chunker
@@ -20,7 +21,8 @@
   ├── rag_pipeline.py         # RAG implementation
   ├── requirements.txt        # Project dependencies
   ├── .env                    # Environment variables
-  └── Dockerfile             
+  └── Dockerfile
+```       
   
 ## 🔧 Prerequisites
 - Python 3.8+
