@@ -77,23 +77,23 @@ class DocumentProcessor:
             self.logger.error(f"Error processing PDF {pdf_path}: {str(e)}")
             return ""
 
-    # def clean_text(self, text: str) -> str:
-    #     if not text:
-    #         return ""
+    def clean_text(self, text: str) -> str:
+        if not text:
+            return ""
             
-    #     try:
-    #         # Remove extra whitespace
-    #         text = ' '.join(text.split())
-    #         # Remove unnecessary line breaks while preserving paragraph structure
-    #         text = text.replace('\n\n', '[PARA]')
-    #         text = text.replace('\n', ' ')
-    #         text = text.replace('[PARA]', '\n\n')
+        try:
+            # Remove extra whitespace
+            text = ' '.join(text.split())
+            # Remove unnecessary line breaks while preserving paragraph structure
+            text = text.replace('\n\n', '[PARA]')
+            text = text.replace('\n', ' ')
+            text = text.replace('[PARA]', '\n\n')
             
-    #         self.logger.info(f"Cleaned text: {len(text)} characters")
-    #         return text
-    #     except Exception as e:
-    #         self.logger.error(f"Error cleaning text: {str(e)}")
-    #         return text
+            self.logger.info(f"Cleaned text: {len(text)} characters")
+            return text
+        except Exception as e:
+            self.logger.error(f"Error cleaning text: {str(e)}")
+            return text
 
     def create_chunks(self, text: str, metadata: Dict) -> List[Dict]:
         try:
@@ -153,8 +153,8 @@ class DocumentProcessor:
         if not text:
             return []
 
-        # # Clean the extracted text
-        # cleaned_text = self.clean_text(text)
+        # Clean the extracted text
+        cleaned_text = self.clean_text(text)
         
         # Create metadata
         metadata = {
@@ -164,7 +164,7 @@ class DocumentProcessor:
         }
         
         # Create and return chunks
-        return self.create_chunks(text, metadata)
+        return self.create_chunks(cleaned_text, metadata)
 
     def process_folder(self, input_folder: str) -> List[Dict]:
         """Process all documents in a folder and return all chunks"""
