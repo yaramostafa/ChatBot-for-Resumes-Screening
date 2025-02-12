@@ -12,6 +12,7 @@ GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 class RAG:
     def __init__(self, pc_index="rag-cvs-cleaned", embed_model="BAAI/bge-large-en-v1.5",
                  llm_model='llama3-70b-8192'):
+        
         # Initialize embedding model
         self.embed_model = HuggingFaceEmbeddings(model_name=embed_model)
 
@@ -37,11 +38,12 @@ class RAG:
             k=6  # Adjust this to the number of turns you want to keep
         )
 
-        self.qa_creation()
 
-    def qa_creation(self):
+        self.llm_chain_creation()
+
+    def llm_chain_creation(self):
         """
-        Function to create the QA chain with the prompts
+        Function to create the llm chain with the prompts
         """
         system_template = """
         You are an HR assistant specialized in job matching. 
@@ -63,6 +65,7 @@ class RAG:
         4- Analysis on why you see the candidate is fit for the position
         If multiple candidates are found, list them in order of relevance.
         """
+
         messages = [
             SystemMessagePromptTemplate.from_template(system_template),
             HumanMessagePromptTemplate.from_template("{question}")
@@ -70,19 +73,18 @@ class RAG:
 
         chat_prompt = ChatPromptTemplate.from_messages(messages)
 
-        # Initialize QA chain with configured retriever
-        self.qa = ConversationalRetrievalChain.from_llm(
+        self.llm_chain = ConversationalRetrievalChain.from_llm(
             llm=self.llm,
             retriever=self.vector_db.as_retriever(
                 search_type="mmr",
                 search_kwargs={
-                    "k": 50,
+                    "k": 30,
                     "lambda_mult": 0.5
-                    }  
+                }
             ),
             memory=self.mem_buff,
             combine_docs_chain_kwargs={"prompt": chat_prompt},
-            verbose=True
+            verbose=True,
         )
 
     def check_db_content(self, query):
@@ -110,23 +112,22 @@ class RAG:
             return "No candidates found with these skills. Please provide more skills or a better description."
         
         print("\nGenerating response...")
-        response = self.qa({"question": text})
+        response = self.llm_chain({"question": text})
         return response["answer"]
 
+rag = RAG()
 
-# rag = RAG()
-
-# # Create an interactive loop
-# while True:
-#     # Get user input
-#     user_query = input("\nEnter your query (or 'quit' to exit): ")
+# Create an interactive loop
+while True:
+    # Get user input
+    user_query = input("\nEnter your query (or 'quit' to exit): ")
     
-#     # Check if user wants to quit
-#     if user_query.lower() in ['quit', 'exit', 'q']:
-#         print("Goodbye!")
-#         break
+    # Check if user wants to quit
+    if user_query.lower() in ['quit', 'exit', 'q']:
+        print("Goodbye!")
+        break
     
-#     # Get and print the response
-#     response = rag.get_response(user_query)
-#     print("\nResponse:")
-#     print(response)
+    # Get and print the response
+    response = rag.get_response(user_query)
+    print("\nResponse:")
+    print(response)
