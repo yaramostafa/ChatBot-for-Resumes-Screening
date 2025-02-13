@@ -4,7 +4,7 @@ from pinecone import Pinecone, ServerlessSpec
 from sentence_transformers import SentenceTransformer
 
 class PineconeDB:
-    def __init__(self, index_name="rag-cvs-cleaned", embedding_dim=1024, region="us-east-1"):
+    def __init__(self, index_name="rag-cvs-named", embedding_dim=1024, region="us-east-1"):
         # Read API key from environment variable
         self.api_key = os.getenv("PINECONE_API_KEY")
         if not self.api_key:
